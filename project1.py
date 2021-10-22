@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-# import cv2
+import csv
 import matplotlib.pyplot as plt
 # import seaborn as sns
 import requests
@@ -37,4 +37,19 @@ print("Number of rows: ", len(pokemon))
 ## is caused by mega evolution of a pokemon.
 ## e.g. Vanusaur and VanusaurMaga are the same pokemon, but have different data.
 
-
+# Benchmark 3 (No.3): Modify the number of columns from the source to the dest
+## Now, I am going to create a table that only contains information below:
+## Name: pokemon's name
+## Type 1: type/category of a pokemon
+## Type 2: another type/category of a pokemon
+## Total: sum of all stats of a pokemon, which determines strength
+## (I will also rename "Total" to "Strength")
+modifiedPokemon = pd.read_csv(url,index_col = 0)
+list_col_names=[]
+for col_name in pokemon:
+    list_col_names.append(col_name)
+for curr_col in list_col_names:
+    if(not (curr_col=='Name' or curr_col=='Type 1' or curr_col=='Type 2' or curr_col=='Total')):
+        modifiedPokemon.drop(curr_col, inplace=True, axis=1)
+modifiedPokemon.rename(columns={'Name':'Name of Pokemon','Type 1':'Type 1','Type 2':'Type 2', 'Total': 'Strength'},inplace=True)
+print(modifiedPokemon)
