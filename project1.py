@@ -1,9 +1,11 @@
 import numpy as np
 import pandas as pd
 import csv
-import matplotlib.pyplot as plt
-# import seaborn as sns
 import requests
+import urllib
+import json
+
+from requests.models import Request
 
 """
 The dataset named "Pokemon with stats" is useful for Pokemon lovers and Pokemon games players.
@@ -19,7 +21,7 @@ URL:https://www.kaggle.com/abcsds/pokemon
 
 # Benchmark 1 (No.1): Retrieve a remote data file by URL
 ## Get URL from Kaggles
-url='https://storage.googleapis.com/kagglesdsdata/datasets/121/280/Pokemon.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20211022%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211022T134612Z&X-Goog-Expires=259199&X-Goog-SignedHeaders=host&X-Goog-Signature=5055adae3ae6cead8ed25092e1c41ccc6ed60d5abbbbe298ae68d20b0f741594cef860c5b24595c2b1117b0c888474902bb1d9a67bbb28ed9538217fe0837f30eaf39527466251370dce6194b2cee03e0e9d6ed2c326c0180dba555870acf07d948314266d4cd6caf31904da7f1d135a1e132cea9ee740c0788fc6a2253d7c89a095c1e26f09b89b340a467078aaccc9214f20af1502410ae97a7a065b4ea77fccb200bc8c597b098bd52d7cc823c562c1375dc978bec5c76fa7993c29d19cc20dc95f95e1e3c93ab09d435ea6db8053a2bd6d1e653e6b2ec39a8608d60d0a80dfb5dac043f14e737bb148b5ea409ab7fec26d724e64fd373441f7ae4c1f20e3'
+url='https://storage.googleapis.com/kagglesdsdata/datasets/121/280/Pokemon.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20211026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211026T195458Z&X-Goog-Expires=259199&X-Goog-SignedHeaders=host&X-Goog-Signature=8e0e61b48d8276d0d4c5794acfbd64793f0c21e89457f700932d288534cb6849c508d4681ec8308f4e6a8c0d95d50f4c9b9b369c704064c59d5910b3d76ffe705270944af5aa2fb798c453b0545ca77c5df5f631606725184663f149cd1959457fa3831dc13dd463c3413e60bf15418b3c28561fc216c1a2399d82008f46dee8ac3617203b11b78c5b29856e86c3b0d7558e8f1ec831c9c1e679f21bf9a1f44049ff311712171756861bf1c0ac1392d6b628a5a9387c616bec162da97e9396f8d8bc0529c55530c8e5d9c65c01dd8f4d768720b90cbed0a5d5e93679e165fb00717f787e48ae7210f1c19abc6f7e2636ad2a9f08655c5ed8c2a20215df8818bd'
 response = requests.get(url)
 ## Use pandas package to read a csv file
 pokemon = pd.read_csv(url,index_col = 0)
@@ -52,4 +54,63 @@ for curr_col in list_col_names:
     if(not (curr_col=='Name' or curr_col=='Type 1' or curr_col=='Type 2' or curr_col=='Total')):
         modifiedPokemon.drop(curr_col, inplace=True, axis=1)
 modifiedPokemon.rename(columns={'Name':'Name of Pokemon','Type 1':'Type 1','Type 2':'Type 2', 'Total': 'Strength'},inplace=True)
+modifiedPokemon.dropna(axis=0, subset=['Strength'])
 print(modifiedPokemon)
+
+# Benchmark 4 (No.2): Convert the general format and data structure of the data source
+## Convert the modified pokemon file from CSV to TSV
+modifiedPokemon.to_csv('./TSVpokemon.tsv', index = False, sep='\t')
+## Convert the newly-created tsv file to csv file
+sourceFile='./TSVpokemon.tsv'
+destFile=pd.read_table(sourceFile,sep='\t')
+destFile.to_csv('./CSVpokemon.csv',index=False)
+## Convert the newly-created csv file to json file
+srcFile='./CSVpokemon.csv'
+jsonFile='./JSONpokemon.json'
+modifedSrcFile='./CSVpokemonGrass.csv'
+data={}
+with open(srcFile) as csvf:
+    csvReader=csv.DictReader(csvf)
+    for rows in csvReader:
+        key = rows['Name of Pokemon']
+        data[key]=rows
+with open(jsonFile,'w') as jsonf:
+    jsonf.write(json.dumps(data,indent=4))
+
+# Extra Function
+# Purpose: Pattern Match and Error Message
+# Description: This function takes a text file path as an input,
+# and it checks if the text file contains only email addresses.
+# Each address has to be listed as a single line in the text file
+
+## Get a filename in the same directory
+import re
+import os
+
+inputDir=''
+## Pattern of an email address
+emailPattern = '^[a-z0-9]+[\._]?[a-z0-9]+[@]\w+[.]\w{2,3}$'  
+try:
+    inputDir=input("Please input the directory of a txt file that contains a list of email addresses: ")
+    ## Check if the file ends with txt
+    if not inputDir.endswith('.txt'):
+        print('Your input file is not a txt file')
+    elif os.path.getsize(inputDir)==0:
+        print('Your text file is empty')
+    else:
+        try:
+            with open(inputDir,'r') as txtf:
+                line=txtf.readline()
+                if not re.match(emailPattern,line):
+                    print('Your text file contains something other than email address: ', line)
+        except os.error as e:
+            print(e)
+        finally:
+            print('Your input text file has been checked')
+            txtf.close()
+except EOFError as e: ## If the input is not a string
+    print("Oops, you did not input a valid directory")
+except FileNotFoundError as e2:
+    print('The system cannot find the file')
+
+

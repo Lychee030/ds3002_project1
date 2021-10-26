@@ -1,0 +1,4802 @@
+{
+    "Bulbasaur": {
+        "Name of Pokemon": "Bulbasaur",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "318"
+    },
+    "Ivysaur": {
+        "Name of Pokemon": "Ivysaur",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "405"
+    },
+    "Venusaur": {
+        "Name of Pokemon": "Venusaur",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "525"
+    },
+    "VenusaurMega Venusaur": {
+        "Name of Pokemon": "VenusaurMega Venusaur",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "625"
+    },
+    "Charmander": {
+        "Name of Pokemon": "Charmander",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "309"
+    },
+    "Charmeleon": {
+        "Name of Pokemon": "Charmeleon",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Charizard": {
+        "Name of Pokemon": "Charizard",
+        "Type 1": "Fire",
+        "Type 2": "Flying",
+        "Strength": "534"
+    },
+    "CharizardMega Charizard X": {
+        "Name of Pokemon": "CharizardMega Charizard X",
+        "Type 1": "Fire",
+        "Type 2": "Dragon",
+        "Strength": "634"
+    },
+    "CharizardMega Charizard Y": {
+        "Name of Pokemon": "CharizardMega Charizard Y",
+        "Type 1": "Fire",
+        "Type 2": "Flying",
+        "Strength": "634"
+    },
+    "Squirtle": {
+        "Name of Pokemon": "Squirtle",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "314"
+    },
+    "Wartortle": {
+        "Name of Pokemon": "Wartortle",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Blastoise": {
+        "Name of Pokemon": "Blastoise",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "530"
+    },
+    "BlastoiseMega Blastoise": {
+        "Name of Pokemon": "BlastoiseMega Blastoise",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "630"
+    },
+    "Caterpie": {
+        "Name of Pokemon": "Caterpie",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "195"
+    },
+    "Metapod": {
+        "Name of Pokemon": "Metapod",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "205"
+    },
+    "Butterfree": {
+        "Name of Pokemon": "Butterfree",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "395"
+    },
+    "Weedle": {
+        "Name of Pokemon": "Weedle",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "195"
+    },
+    "Kakuna": {
+        "Name of Pokemon": "Kakuna",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "205"
+    },
+    "Beedrill": {
+        "Name of Pokemon": "Beedrill",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "395"
+    },
+    "BeedrillMega Beedrill": {
+        "Name of Pokemon": "BeedrillMega Beedrill",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "495"
+    },
+    "Pidgey": {
+        "Name of Pokemon": "Pidgey",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "251"
+    },
+    "Pidgeotto": {
+        "Name of Pokemon": "Pidgeotto",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "349"
+    },
+    "Pidgeot": {
+        "Name of Pokemon": "Pidgeot",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "479"
+    },
+    "PidgeotMega Pidgeot": {
+        "Name of Pokemon": "PidgeotMega Pidgeot",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "579"
+    },
+    "Rattata": {
+        "Name of Pokemon": "Rattata",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "253"
+    },
+    "Raticate": {
+        "Name of Pokemon": "Raticate",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "413"
+    },
+    "Spearow": {
+        "Name of Pokemon": "Spearow",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "262"
+    },
+    "Fearow": {
+        "Name of Pokemon": "Fearow",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "442"
+    },
+    "Ekans": {
+        "Name of Pokemon": "Ekans",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "288"
+    },
+    "Arbok": {
+        "Name of Pokemon": "Arbok",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "438"
+    },
+    "Pikachu": {
+        "Name of Pokemon": "Pikachu",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "320"
+    },
+    "Raichu": {
+        "Name of Pokemon": "Raichu",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "485"
+    },
+    "Sandshrew": {
+        "Name of Pokemon": "Sandshrew",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Sandslash": {
+        "Name of Pokemon": "Sandslash",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "450"
+    },
+    "Nidoran\u00e2\u2122\u20ac": {
+        "Name of Pokemon": "Nidoran\u00e2\u2122\u20ac",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "275"
+    },
+    "Nidorina": {
+        "Name of Pokemon": "Nidorina",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "365"
+    },
+    "Nidoqueen": {
+        "Name of Pokemon": "Nidoqueen",
+        "Type 1": "Poison",
+        "Type 2": "Ground",
+        "Strength": "505"
+    },
+    "Nidoran\u00e2\u2122\u201a": {
+        "Name of Pokemon": "Nidoran\u00e2\u2122\u201a",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "273"
+    },
+    "Nidorino": {
+        "Name of Pokemon": "Nidorino",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "365"
+    },
+    "Nidoking": {
+        "Name of Pokemon": "Nidoking",
+        "Type 1": "Poison",
+        "Type 2": "Ground",
+        "Strength": "505"
+    },
+    "Clefairy": {
+        "Name of Pokemon": "Clefairy",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "323"
+    },
+    "Clefable": {
+        "Name of Pokemon": "Clefable",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "483"
+    },
+    "Vulpix": {
+        "Name of Pokemon": "Vulpix",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "299"
+    },
+    "Ninetales": {
+        "Name of Pokemon": "Ninetales",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "505"
+    },
+    "Jigglypuff": {
+        "Name of Pokemon": "Jigglypuff",
+        "Type 1": "Normal",
+        "Type 2": "Fairy",
+        "Strength": "270"
+    },
+    "Wigglytuff": {
+        "Name of Pokemon": "Wigglytuff",
+        "Type 1": "Normal",
+        "Type 2": "Fairy",
+        "Strength": "435"
+    },
+    "Zubat": {
+        "Name of Pokemon": "Zubat",
+        "Type 1": "Poison",
+        "Type 2": "Flying",
+        "Strength": "245"
+    },
+    "Golbat": {
+        "Name of Pokemon": "Golbat",
+        "Type 1": "Poison",
+        "Type 2": "Flying",
+        "Strength": "455"
+    },
+    "Oddish": {
+        "Name of Pokemon": "Oddish",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "320"
+    },
+    "Gloom": {
+        "Name of Pokemon": "Gloom",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "395"
+    },
+    "Vileplume": {
+        "Name of Pokemon": "Vileplume",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "490"
+    },
+    "Paras": {
+        "Name of Pokemon": "Paras",
+        "Type 1": "Bug",
+        "Type 2": "Grass",
+        "Strength": "285"
+    },
+    "Parasect": {
+        "Name of Pokemon": "Parasect",
+        "Type 1": "Bug",
+        "Type 2": "Grass",
+        "Strength": "405"
+    },
+    "Venonat": {
+        "Name of Pokemon": "Venonat",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "305"
+    },
+    "Venomoth": {
+        "Name of Pokemon": "Venomoth",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "450"
+    },
+    "Diglett": {
+        "Name of Pokemon": "Diglett",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "265"
+    },
+    "Dugtrio": {
+        "Name of Pokemon": "Dugtrio",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Meowth": {
+        "Name of Pokemon": "Meowth",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "290"
+    },
+    "Persian": {
+        "Name of Pokemon": "Persian",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "440"
+    },
+    "Psyduck": {
+        "Name of Pokemon": "Psyduck",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "320"
+    },
+    "Golduck": {
+        "Name of Pokemon": "Golduck",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Mankey": {
+        "Name of Pokemon": "Mankey",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "305"
+    },
+    "Primeape": {
+        "Name of Pokemon": "Primeape",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "455"
+    },
+    "Growlithe": {
+        "Name of Pokemon": "Growlithe",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "350"
+    },
+    "Arcanine": {
+        "Name of Pokemon": "Arcanine",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "555"
+    },
+    "Poliwag": {
+        "Name of Pokemon": "Poliwag",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Poliwhirl": {
+        "Name of Pokemon": "Poliwhirl",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "385"
+    },
+    "Poliwrath": {
+        "Name of Pokemon": "Poliwrath",
+        "Type 1": "Water",
+        "Type 2": "Fighting",
+        "Strength": "510"
+    },
+    "Abra": {
+        "Name of Pokemon": "Abra",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "310"
+    },
+    "Kadabra": {
+        "Name of Pokemon": "Kadabra",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "400"
+    },
+    "Alakazam": {
+        "Name of Pokemon": "Alakazam",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "AlakazamMega Alakazam": {
+        "Name of Pokemon": "AlakazamMega Alakazam",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "590"
+    },
+    "Machop": {
+        "Name of Pokemon": "Machop",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "305"
+    },
+    "Machoke": {
+        "Name of Pokemon": "Machoke",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Machamp": {
+        "Name of Pokemon": "Machamp",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "505"
+    },
+    "Bellsprout": {
+        "Name of Pokemon": "Bellsprout",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "300"
+    },
+    "Weepinbell": {
+        "Name of Pokemon": "Weepinbell",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "390"
+    },
+    "Victreebel": {
+        "Name of Pokemon": "Victreebel",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "490"
+    },
+    "Tentacool": {
+        "Name of Pokemon": "Tentacool",
+        "Type 1": "Water",
+        "Type 2": "Poison",
+        "Strength": "335"
+    },
+    "Tentacruel": {
+        "Name of Pokemon": "Tentacruel",
+        "Type 1": "Water",
+        "Type 2": "Poison",
+        "Strength": "515"
+    },
+    "Geodude": {
+        "Name of Pokemon": "Geodude",
+        "Type 1": "Rock",
+        "Type 2": "Ground",
+        "Strength": "300"
+    },
+    "Graveler": {
+        "Name of Pokemon": "Graveler",
+        "Type 1": "Rock",
+        "Type 2": "Ground",
+        "Strength": "390"
+    },
+    "Golem": {
+        "Name of Pokemon": "Golem",
+        "Type 1": "Rock",
+        "Type 2": "Ground",
+        "Strength": "495"
+    },
+    "Ponyta": {
+        "Name of Pokemon": "Ponyta",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "410"
+    },
+    "Rapidash": {
+        "Name of Pokemon": "Rapidash",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Slowpoke": {
+        "Name of Pokemon": "Slowpoke",
+        "Type 1": "Water",
+        "Type 2": "Psychic",
+        "Strength": "315"
+    },
+    "Slowbro": {
+        "Name of Pokemon": "Slowbro",
+        "Type 1": "Water",
+        "Type 2": "Psychic",
+        "Strength": "490"
+    },
+    "SlowbroMega Slowbro": {
+        "Name of Pokemon": "SlowbroMega Slowbro",
+        "Type 1": "Water",
+        "Type 2": "Psychic",
+        "Strength": "590"
+    },
+    "Magnemite": {
+        "Name of Pokemon": "Magnemite",
+        "Type 1": "Electric",
+        "Type 2": "Steel",
+        "Strength": "325"
+    },
+    "Magneton": {
+        "Name of Pokemon": "Magneton",
+        "Type 1": "Electric",
+        "Type 2": "Steel",
+        "Strength": "465"
+    },
+    "Farfetch'd": {
+        "Name of Pokemon": "Farfetch'd",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "352"
+    },
+    "Doduo": {
+        "Name of Pokemon": "Doduo",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "310"
+    },
+    "Dodrio": {
+        "Name of Pokemon": "Dodrio",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "460"
+    },
+    "Seel": {
+        "Name of Pokemon": "Seel",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "325"
+    },
+    "Dewgong": {
+        "Name of Pokemon": "Dewgong",
+        "Type 1": "Water",
+        "Type 2": "Ice",
+        "Strength": "475"
+    },
+    "Grimer": {
+        "Name of Pokemon": "Grimer",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "325"
+    },
+    "Muk": {
+        "Name of Pokemon": "Muk",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Shellder": {
+        "Name of Pokemon": "Shellder",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "305"
+    },
+    "Cloyster": {
+        "Name of Pokemon": "Cloyster",
+        "Type 1": "Water",
+        "Type 2": "Ice",
+        "Strength": "525"
+    },
+    "Gastly": {
+        "Name of Pokemon": "Gastly",
+        "Type 1": "Ghost",
+        "Type 2": "Poison",
+        "Strength": "310"
+    },
+    "Haunter": {
+        "Name of Pokemon": "Haunter",
+        "Type 1": "Ghost",
+        "Type 2": "Poison",
+        "Strength": "405"
+    },
+    "Gengar": {
+        "Name of Pokemon": "Gengar",
+        "Type 1": "Ghost",
+        "Type 2": "Poison",
+        "Strength": "500"
+    },
+    "GengarMega Gengar": {
+        "Name of Pokemon": "GengarMega Gengar",
+        "Type 1": "Ghost",
+        "Type 2": "Poison",
+        "Strength": "600"
+    },
+    "Onix": {
+        "Name of Pokemon": "Onix",
+        "Type 1": "Rock",
+        "Type 2": "Ground",
+        "Strength": "385"
+    },
+    "Drowzee": {
+        "Name of Pokemon": "Drowzee",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "328"
+    },
+    "Hypno": {
+        "Name of Pokemon": "Hypno",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "483"
+    },
+    "Krabby": {
+        "Name of Pokemon": "Krabby",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "325"
+    },
+    "Kingler": {
+        "Name of Pokemon": "Kingler",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "475"
+    },
+    "Voltorb": {
+        "Name of Pokemon": "Voltorb",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Electrode": {
+        "Name of Pokemon": "Electrode",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "480"
+    },
+    "Exeggcute": {
+        "Name of Pokemon": "Exeggcute",
+        "Type 1": "Grass",
+        "Type 2": "Psychic",
+        "Strength": "325"
+    },
+    "Exeggutor": {
+        "Name of Pokemon": "Exeggutor",
+        "Type 1": "Grass",
+        "Type 2": "Psychic",
+        "Strength": "520"
+    },
+    "Cubone": {
+        "Name of Pokemon": "Cubone",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "320"
+    },
+    "Marowak": {
+        "Name of Pokemon": "Marowak",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "425"
+    },
+    "Hitmonlee": {
+        "Name of Pokemon": "Hitmonlee",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "455"
+    },
+    "Hitmonchan": {
+        "Name of Pokemon": "Hitmonchan",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "455"
+    },
+    "Lickitung": {
+        "Name of Pokemon": "Lickitung",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "385"
+    },
+    "Koffing": {
+        "Name of Pokemon": "Koffing",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "340"
+    },
+    "Weezing": {
+        "Name of Pokemon": "Weezing",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Rhyhorn": {
+        "Name of Pokemon": "Rhyhorn",
+        "Type 1": "Ground",
+        "Type 2": "Rock",
+        "Strength": "345"
+    },
+    "Rhydon": {
+        "Name of Pokemon": "Rhydon",
+        "Type 1": "Ground",
+        "Type 2": "Rock",
+        "Strength": "485"
+    },
+    "Chansey": {
+        "Name of Pokemon": "Chansey",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "450"
+    },
+    "Tangela": {
+        "Name of Pokemon": "Tangela",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "435"
+    },
+    "Kangaskhan": {
+        "Name of Pokemon": "Kangaskhan",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "KangaskhanMega Kangaskhan": {
+        "Name of Pokemon": "KangaskhanMega Kangaskhan",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "590"
+    },
+    "Horsea": {
+        "Name of Pokemon": "Horsea",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "295"
+    },
+    "Seadra": {
+        "Name of Pokemon": "Seadra",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "440"
+    },
+    "Goldeen": {
+        "Name of Pokemon": "Goldeen",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "320"
+    },
+    "Seaking": {
+        "Name of Pokemon": "Seaking",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "450"
+    },
+    "Staryu": {
+        "Name of Pokemon": "Staryu",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "340"
+    },
+    "Starmie": {
+        "Name of Pokemon": "Starmie",
+        "Type 1": "Water",
+        "Type 2": "Psychic",
+        "Strength": "520"
+    },
+    "Mr. Mime": {
+        "Name of Pokemon": "Mr. Mime",
+        "Type 1": "Psychic",
+        "Type 2": "Fairy",
+        "Strength": "460"
+    },
+    "Scyther": {
+        "Name of Pokemon": "Scyther",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "500"
+    },
+    "Jynx": {
+        "Name of Pokemon": "Jynx",
+        "Type 1": "Ice",
+        "Type 2": "Psychic",
+        "Strength": "455"
+    },
+    "Electabuzz": {
+        "Name of Pokemon": "Electabuzz",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Magmar": {
+        "Name of Pokemon": "Magmar",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "495"
+    },
+    "Pinsir": {
+        "Name of Pokemon": "Pinsir",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "PinsirMega Pinsir": {
+        "Name of Pokemon": "PinsirMega Pinsir",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "600"
+    },
+    "Tauros": {
+        "Name of Pokemon": "Tauros",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Magikarp": {
+        "Name of Pokemon": "Magikarp",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "200"
+    },
+    "Gyarados": {
+        "Name of Pokemon": "Gyarados",
+        "Type 1": "Water",
+        "Type 2": "Flying",
+        "Strength": "540"
+    },
+    "GyaradosMega Gyarados": {
+        "Name of Pokemon": "GyaradosMega Gyarados",
+        "Type 1": "Water",
+        "Type 2": "Dark",
+        "Strength": "640"
+    },
+    "Lapras": {
+        "Name of Pokemon": "Lapras",
+        "Type 1": "Water",
+        "Type 2": "Ice",
+        "Strength": "535"
+    },
+    "Ditto": {
+        "Name of Pokemon": "Ditto",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "288"
+    },
+    "Eevee": {
+        "Name of Pokemon": "Eevee",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "325"
+    },
+    "Vaporeon": {
+        "Name of Pokemon": "Vaporeon",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Jolteon": {
+        "Name of Pokemon": "Jolteon",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Flareon": {
+        "Name of Pokemon": "Flareon",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Porygon": {
+        "Name of Pokemon": "Porygon",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "395"
+    },
+    "Omanyte": {
+        "Name of Pokemon": "Omanyte",
+        "Type 1": "Rock",
+        "Type 2": "Water",
+        "Strength": "355"
+    },
+    "Omastar": {
+        "Name of Pokemon": "Omastar",
+        "Type 1": "Rock",
+        "Type 2": "Water",
+        "Strength": "495"
+    },
+    "Kabuto": {
+        "Name of Pokemon": "Kabuto",
+        "Type 1": "Rock",
+        "Type 2": "Water",
+        "Strength": "355"
+    },
+    "Kabutops": {
+        "Name of Pokemon": "Kabutops",
+        "Type 1": "Rock",
+        "Type 2": "Water",
+        "Strength": "495"
+    },
+    "Aerodactyl": {
+        "Name of Pokemon": "Aerodactyl",
+        "Type 1": "Rock",
+        "Type 2": "Flying",
+        "Strength": "515"
+    },
+    "AerodactylMega Aerodactyl": {
+        "Name of Pokemon": "AerodactylMega Aerodactyl",
+        "Type 1": "Rock",
+        "Type 2": "Flying",
+        "Strength": "615"
+    },
+    "Snorlax": {
+        "Name of Pokemon": "Snorlax",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "540"
+    },
+    "Articuno": {
+        "Name of Pokemon": "Articuno",
+        "Type 1": "Ice",
+        "Type 2": "Flying",
+        "Strength": "580"
+    },
+    "Zapdos": {
+        "Name of Pokemon": "Zapdos",
+        "Type 1": "Electric",
+        "Type 2": "Flying",
+        "Strength": "580"
+    },
+    "Moltres": {
+        "Name of Pokemon": "Moltres",
+        "Type 1": "Fire",
+        "Type 2": "Flying",
+        "Strength": "580"
+    },
+    "Dratini": {
+        "Name of Pokemon": "Dratini",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Dragonair": {
+        "Name of Pokemon": "Dragonair",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "420"
+    },
+    "Dragonite": {
+        "Name of Pokemon": "Dragonite",
+        "Type 1": "Dragon",
+        "Type 2": "Flying",
+        "Strength": "600"
+    },
+    "Mewtwo": {
+        "Name of Pokemon": "Mewtwo",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "680"
+    },
+    "MewtwoMega Mewtwo X": {
+        "Name of Pokemon": "MewtwoMega Mewtwo X",
+        "Type 1": "Psychic",
+        "Type 2": "Fighting",
+        "Strength": "780"
+    },
+    "MewtwoMega Mewtwo Y": {
+        "Name of Pokemon": "MewtwoMega Mewtwo Y",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "780"
+    },
+    "Mew": {
+        "Name of Pokemon": "Mew",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "Chikorita": {
+        "Name of Pokemon": "Chikorita",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "318"
+    },
+    "Bayleef": {
+        "Name of Pokemon": "Bayleef",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Meganium": {
+        "Name of Pokemon": "Meganium",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Cyndaquil": {
+        "Name of Pokemon": "Cyndaquil",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "309"
+    },
+    "Quilava": {
+        "Name of Pokemon": "Quilava",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Typhlosion": {
+        "Name of Pokemon": "Typhlosion",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "534"
+    },
+    "Totodile": {
+        "Name of Pokemon": "Totodile",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "314"
+    },
+    "Croconaw": {
+        "Name of Pokemon": "Croconaw",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Feraligatr": {
+        "Name of Pokemon": "Feraligatr",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "530"
+    },
+    "Sentret": {
+        "Name of Pokemon": "Sentret",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "215"
+    },
+    "Furret": {
+        "Name of Pokemon": "Furret",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "415"
+    },
+    "Hoothoot": {
+        "Name of Pokemon": "Hoothoot",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "262"
+    },
+    "Noctowl": {
+        "Name of Pokemon": "Noctowl",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "442"
+    },
+    "Ledyba": {
+        "Name of Pokemon": "Ledyba",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "265"
+    },
+    "Ledian": {
+        "Name of Pokemon": "Ledian",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "390"
+    },
+    "Spinarak": {
+        "Name of Pokemon": "Spinarak",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "250"
+    },
+    "Ariados": {
+        "Name of Pokemon": "Ariados",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "390"
+    },
+    "Crobat": {
+        "Name of Pokemon": "Crobat",
+        "Type 1": "Poison",
+        "Type 2": "Flying",
+        "Strength": "535"
+    },
+    "Chinchou": {
+        "Name of Pokemon": "Chinchou",
+        "Type 1": "Water",
+        "Type 2": "Electric",
+        "Strength": "330"
+    },
+    "Lanturn": {
+        "Name of Pokemon": "Lanturn",
+        "Type 1": "Water",
+        "Type 2": "Electric",
+        "Strength": "460"
+    },
+    "Pichu": {
+        "Name of Pokemon": "Pichu",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "205"
+    },
+    "Cleffa": {
+        "Name of Pokemon": "Cleffa",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "218"
+    },
+    "Igglybuff": {
+        "Name of Pokemon": "Igglybuff",
+        "Type 1": "Normal",
+        "Type 2": "Fairy",
+        "Strength": "210"
+    },
+    "Togepi": {
+        "Name of Pokemon": "Togepi",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "245"
+    },
+    "Togetic": {
+        "Name of Pokemon": "Togetic",
+        "Type 1": "Fairy",
+        "Type 2": "Flying",
+        "Strength": "405"
+    },
+    "Natu": {
+        "Name of Pokemon": "Natu",
+        "Type 1": "Psychic",
+        "Type 2": "Flying",
+        "Strength": "320"
+    },
+    "Xatu": {
+        "Name of Pokemon": "Xatu",
+        "Type 1": "Psychic",
+        "Type 2": "Flying",
+        "Strength": "470"
+    },
+    "Mareep": {
+        "Name of Pokemon": "Mareep",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "280"
+    },
+    "Flaaffy": {
+        "Name of Pokemon": "Flaaffy",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "365"
+    },
+    "Ampharos": {
+        "Name of Pokemon": "Ampharos",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "510"
+    },
+    "AmpharosMega Ampharos": {
+        "Name of Pokemon": "AmpharosMega Ampharos",
+        "Type 1": "Electric",
+        "Type 2": "Dragon",
+        "Strength": "610"
+    },
+    "Bellossom": {
+        "Name of Pokemon": "Bellossom",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Marill": {
+        "Name of Pokemon": "Marill",
+        "Type 1": "Water",
+        "Type 2": "Fairy",
+        "Strength": "250"
+    },
+    "Azumarill": {
+        "Name of Pokemon": "Azumarill",
+        "Type 1": "Water",
+        "Type 2": "Fairy",
+        "Strength": "420"
+    },
+    "Sudowoodo": {
+        "Name of Pokemon": "Sudowoodo",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "410"
+    },
+    "Politoed": {
+        "Name of Pokemon": "Politoed",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Hoppip": {
+        "Name of Pokemon": "Hoppip",
+        "Type 1": "Grass",
+        "Type 2": "Flying",
+        "Strength": "250"
+    },
+    "Skiploom": {
+        "Name of Pokemon": "Skiploom",
+        "Type 1": "Grass",
+        "Type 2": "Flying",
+        "Strength": "340"
+    },
+    "Jumpluff": {
+        "Name of Pokemon": "Jumpluff",
+        "Type 1": "Grass",
+        "Type 2": "Flying",
+        "Strength": "460"
+    },
+    "Aipom": {
+        "Name of Pokemon": "Aipom",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "360"
+    },
+    "Sunkern": {
+        "Name of Pokemon": "Sunkern",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "180"
+    },
+    "Sunflora": {
+        "Name of Pokemon": "Sunflora",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "425"
+    },
+    "Yanma": {
+        "Name of Pokemon": "Yanma",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "390"
+    },
+    "Wooper": {
+        "Name of Pokemon": "Wooper",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "210"
+    },
+    "Quagsire": {
+        "Name of Pokemon": "Quagsire",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "430"
+    },
+    "Espeon": {
+        "Name of Pokemon": "Espeon",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Umbreon": {
+        "Name of Pokemon": "Umbreon",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Murkrow": {
+        "Name of Pokemon": "Murkrow",
+        "Type 1": "Dark",
+        "Type 2": "Flying",
+        "Strength": "405"
+    },
+    "Slowking": {
+        "Name of Pokemon": "Slowking",
+        "Type 1": "Water",
+        "Type 2": "Psychic",
+        "Strength": "490"
+    },
+    "Misdreavus": {
+        "Name of Pokemon": "Misdreavus",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "435"
+    },
+    "Unown": {
+        "Name of Pokemon": "Unown",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "336"
+    },
+    "Wobbuffet": {
+        "Name of Pokemon": "Wobbuffet",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Girafarig": {
+        "Name of Pokemon": "Girafarig",
+        "Type 1": "Normal",
+        "Type 2": "Psychic",
+        "Strength": "455"
+    },
+    "Pineco": {
+        "Name of Pokemon": "Pineco",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "290"
+    },
+    "Forretress": {
+        "Name of Pokemon": "Forretress",
+        "Type 1": "Bug",
+        "Type 2": "Steel",
+        "Strength": "465"
+    },
+    "Dunsparce": {
+        "Name of Pokemon": "Dunsparce",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "415"
+    },
+    "Gligar": {
+        "Name of Pokemon": "Gligar",
+        "Type 1": "Ground",
+        "Type 2": "Flying",
+        "Strength": "430"
+    },
+    "Steelix": {
+        "Name of Pokemon": "Steelix",
+        "Type 1": "Steel",
+        "Type 2": "Ground",
+        "Strength": "510"
+    },
+    "SteelixMega Steelix": {
+        "Name of Pokemon": "SteelixMega Steelix",
+        "Type 1": "Steel",
+        "Type 2": "Ground",
+        "Strength": "610"
+    },
+    "Snubbull": {
+        "Name of Pokemon": "Snubbull",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Granbull": {
+        "Name of Pokemon": "Granbull",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "450"
+    },
+    "Qwilfish": {
+        "Name of Pokemon": "Qwilfish",
+        "Type 1": "Water",
+        "Type 2": "Poison",
+        "Strength": "430"
+    },
+    "Scizor": {
+        "Name of Pokemon": "Scizor",
+        "Type 1": "Bug",
+        "Type 2": "Steel",
+        "Strength": "500"
+    },
+    "ScizorMega Scizor": {
+        "Name of Pokemon": "ScizorMega Scizor",
+        "Type 1": "Bug",
+        "Type 2": "Steel",
+        "Strength": "600"
+    },
+    "Shuckle": {
+        "Name of Pokemon": "Shuckle",
+        "Type 1": "Bug",
+        "Type 2": "Rock",
+        "Strength": "505"
+    },
+    "Heracross": {
+        "Name of Pokemon": "Heracross",
+        "Type 1": "Bug",
+        "Type 2": "Fighting",
+        "Strength": "500"
+    },
+    "HeracrossMega Heracross": {
+        "Name of Pokemon": "HeracrossMega Heracross",
+        "Type 1": "Bug",
+        "Type 2": "Fighting",
+        "Strength": "600"
+    },
+    "Sneasel": {
+        "Name of Pokemon": "Sneasel",
+        "Type 1": "Dark",
+        "Type 2": "Ice",
+        "Strength": "430"
+    },
+    "Teddiursa": {
+        "Name of Pokemon": "Teddiursa",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Ursaring": {
+        "Name of Pokemon": "Ursaring",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Slugma": {
+        "Name of Pokemon": "Slugma",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "250"
+    },
+    "Magcargo": {
+        "Name of Pokemon": "Magcargo",
+        "Type 1": "Fire",
+        "Type 2": "Rock",
+        "Strength": "410"
+    },
+    "Swinub": {
+        "Name of Pokemon": "Swinub",
+        "Type 1": "Ice",
+        "Type 2": "Ground",
+        "Strength": "250"
+    },
+    "Piloswine": {
+        "Name of Pokemon": "Piloswine",
+        "Type 1": "Ice",
+        "Type 2": "Ground",
+        "Strength": "450"
+    },
+    "Corsola": {
+        "Name of Pokemon": "Corsola",
+        "Type 1": "Water",
+        "Type 2": "Rock",
+        "Strength": "380"
+    },
+    "Remoraid": {
+        "Name of Pokemon": "Remoraid",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Octillery": {
+        "Name of Pokemon": "Octillery",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "480"
+    },
+    "Delibird": {
+        "Name of Pokemon": "Delibird",
+        "Type 1": "Ice",
+        "Type 2": "Flying",
+        "Strength": "330"
+    },
+    "Mantine": {
+        "Name of Pokemon": "Mantine",
+        "Type 1": "Water",
+        "Type 2": "Flying",
+        "Strength": "465"
+    },
+    "Skarmory": {
+        "Name of Pokemon": "Skarmory",
+        "Type 1": "Steel",
+        "Type 2": "Flying",
+        "Strength": "465"
+    },
+    "Houndour": {
+        "Name of Pokemon": "Houndour",
+        "Type 1": "Dark",
+        "Type 2": "Fire",
+        "Strength": "330"
+    },
+    "Houndoom": {
+        "Name of Pokemon": "Houndoom",
+        "Type 1": "Dark",
+        "Type 2": "Fire",
+        "Strength": "500"
+    },
+    "HoundoomMega Houndoom": {
+        "Name of Pokemon": "HoundoomMega Houndoom",
+        "Type 1": "Dark",
+        "Type 2": "Fire",
+        "Strength": "600"
+    },
+    "Kingdra": {
+        "Name of Pokemon": "Kingdra",
+        "Type 1": "Water",
+        "Type 2": "Dragon",
+        "Strength": "540"
+    },
+    "Phanpy": {
+        "Name of Pokemon": "Phanpy",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Donphan": {
+        "Name of Pokemon": "Donphan",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Porygon2": {
+        "Name of Pokemon": "Porygon2",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "515"
+    },
+    "Stantler": {
+        "Name of Pokemon": "Stantler",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "465"
+    },
+    "Smeargle": {
+        "Name of Pokemon": "Smeargle",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "250"
+    },
+    "Tyrogue": {
+        "Name of Pokemon": "Tyrogue",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "210"
+    },
+    "Hitmontop": {
+        "Name of Pokemon": "Hitmontop",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "455"
+    },
+    "Smoochum": {
+        "Name of Pokemon": "Smoochum",
+        "Type 1": "Ice",
+        "Type 2": "Psychic",
+        "Strength": "305"
+    },
+    "Elekid": {
+        "Name of Pokemon": "Elekid",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "360"
+    },
+    "Magby": {
+        "Name of Pokemon": "Magby",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "365"
+    },
+    "Miltank": {
+        "Name of Pokemon": "Miltank",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Blissey": {
+        "Name of Pokemon": "Blissey",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "540"
+    },
+    "Raikou": {
+        "Name of Pokemon": "Raikou",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Entei": {
+        "Name of Pokemon": "Entei",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Suicune": {
+        "Name of Pokemon": "Suicune",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Larvitar": {
+        "Name of Pokemon": "Larvitar",
+        "Type 1": "Rock",
+        "Type 2": "Ground",
+        "Strength": "300"
+    },
+    "Pupitar": {
+        "Name of Pokemon": "Pupitar",
+        "Type 1": "Rock",
+        "Type 2": "Ground",
+        "Strength": "410"
+    },
+    "Tyranitar": {
+        "Name of Pokemon": "Tyranitar",
+        "Type 1": "Rock",
+        "Type 2": "Dark",
+        "Strength": "600"
+    },
+    "TyranitarMega Tyranitar": {
+        "Name of Pokemon": "TyranitarMega Tyranitar",
+        "Type 1": "Rock",
+        "Type 2": "Dark",
+        "Strength": "700"
+    },
+    "Lugia": {
+        "Name of Pokemon": "Lugia",
+        "Type 1": "Psychic",
+        "Type 2": "Flying",
+        "Strength": "680"
+    },
+    "Ho-oh": {
+        "Name of Pokemon": "Ho-oh",
+        "Type 1": "Fire",
+        "Type 2": "Flying",
+        "Strength": "680"
+    },
+    "Celebi": {
+        "Name of Pokemon": "Celebi",
+        "Type 1": "Psychic",
+        "Type 2": "Grass",
+        "Strength": "600"
+    },
+    "Treecko": {
+        "Name of Pokemon": "Treecko",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "310"
+    },
+    "Grovyle": {
+        "Name of Pokemon": "Grovyle",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Sceptile": {
+        "Name of Pokemon": "Sceptile",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "530"
+    },
+    "SceptileMega Sceptile": {
+        "Name of Pokemon": "SceptileMega Sceptile",
+        "Type 1": "Grass",
+        "Type 2": "Dragon",
+        "Strength": "630"
+    },
+    "Torchic": {
+        "Name of Pokemon": "Torchic",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "310"
+    },
+    "Combusken": {
+        "Name of Pokemon": "Combusken",
+        "Type 1": "Fire",
+        "Type 2": "Fighting",
+        "Strength": "405"
+    },
+    "Blaziken": {
+        "Name of Pokemon": "Blaziken",
+        "Type 1": "Fire",
+        "Type 2": "Fighting",
+        "Strength": "530"
+    },
+    "BlazikenMega Blaziken": {
+        "Name of Pokemon": "BlazikenMega Blaziken",
+        "Type 1": "Fire",
+        "Type 2": "Fighting",
+        "Strength": "630"
+    },
+    "Mudkip": {
+        "Name of Pokemon": "Mudkip",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "310"
+    },
+    "Marshtomp": {
+        "Name of Pokemon": "Marshtomp",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "405"
+    },
+    "Swampert": {
+        "Name of Pokemon": "Swampert",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "535"
+    },
+    "SwampertMega Swampert": {
+        "Name of Pokemon": "SwampertMega Swampert",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "635"
+    },
+    "Poochyena": {
+        "Name of Pokemon": "Poochyena",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "220"
+    },
+    "Mightyena": {
+        "Name of Pokemon": "Mightyena",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "420"
+    },
+    "Zigzagoon": {
+        "Name of Pokemon": "Zigzagoon",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "240"
+    },
+    "Linoone": {
+        "Name of Pokemon": "Linoone",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "420"
+    },
+    "Wurmple": {
+        "Name of Pokemon": "Wurmple",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "195"
+    },
+    "Silcoon": {
+        "Name of Pokemon": "Silcoon",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "205"
+    },
+    "Beautifly": {
+        "Name of Pokemon": "Beautifly",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "395"
+    },
+    "Cascoon": {
+        "Name of Pokemon": "Cascoon",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "205"
+    },
+    "Dustox": {
+        "Name of Pokemon": "Dustox",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "385"
+    },
+    "Lotad": {
+        "Name of Pokemon": "Lotad",
+        "Type 1": "Water",
+        "Type 2": "Grass",
+        "Strength": "220"
+    },
+    "Lombre": {
+        "Name of Pokemon": "Lombre",
+        "Type 1": "Water",
+        "Type 2": "Grass",
+        "Strength": "340"
+    },
+    "Ludicolo": {
+        "Name of Pokemon": "Ludicolo",
+        "Type 1": "Water",
+        "Type 2": "Grass",
+        "Strength": "480"
+    },
+    "Seedot": {
+        "Name of Pokemon": "Seedot",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "220"
+    },
+    "Nuzleaf": {
+        "Name of Pokemon": "Nuzleaf",
+        "Type 1": "Grass",
+        "Type 2": "Dark",
+        "Strength": "340"
+    },
+    "Shiftry": {
+        "Name of Pokemon": "Shiftry",
+        "Type 1": "Grass",
+        "Type 2": "Dark",
+        "Strength": "480"
+    },
+    "Taillow": {
+        "Name of Pokemon": "Taillow",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "270"
+    },
+    "Swellow": {
+        "Name of Pokemon": "Swellow",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "430"
+    },
+    "Wingull": {
+        "Name of Pokemon": "Wingull",
+        "Type 1": "Water",
+        "Type 2": "Flying",
+        "Strength": "270"
+    },
+    "Pelipper": {
+        "Name of Pokemon": "Pelipper",
+        "Type 1": "Water",
+        "Type 2": "Flying",
+        "Strength": "430"
+    },
+    "Ralts": {
+        "Name of Pokemon": "Ralts",
+        "Type 1": "Psychic",
+        "Type 2": "Fairy",
+        "Strength": "198"
+    },
+    "Kirlia": {
+        "Name of Pokemon": "Kirlia",
+        "Type 1": "Psychic",
+        "Type 2": "Fairy",
+        "Strength": "278"
+    },
+    "Gardevoir": {
+        "Name of Pokemon": "Gardevoir",
+        "Type 1": "Psychic",
+        "Type 2": "Fairy",
+        "Strength": "518"
+    },
+    "GardevoirMega Gardevoir": {
+        "Name of Pokemon": "GardevoirMega Gardevoir",
+        "Type 1": "Psychic",
+        "Type 2": "Fairy",
+        "Strength": "618"
+    },
+    "Surskit": {
+        "Name of Pokemon": "Surskit",
+        "Type 1": "Bug",
+        "Type 2": "Water",
+        "Strength": "269"
+    },
+    "Masquerain": {
+        "Name of Pokemon": "Masquerain",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "414"
+    },
+    "Shroomish": {
+        "Name of Pokemon": "Shroomish",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "295"
+    },
+    "Breloom": {
+        "Name of Pokemon": "Breloom",
+        "Type 1": "Grass",
+        "Type 2": "Fighting",
+        "Strength": "460"
+    },
+    "Slakoth": {
+        "Name of Pokemon": "Slakoth",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "280"
+    },
+    "Vigoroth": {
+        "Name of Pokemon": "Vigoroth",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "440"
+    },
+    "Slaking": {
+        "Name of Pokemon": "Slaking",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "670"
+    },
+    "Nincada": {
+        "Name of Pokemon": "Nincada",
+        "Type 1": "Bug",
+        "Type 2": "Ground",
+        "Strength": "266"
+    },
+    "Ninjask": {
+        "Name of Pokemon": "Ninjask",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "456"
+    },
+    "Shedinja": {
+        "Name of Pokemon": "Shedinja",
+        "Type 1": "Bug",
+        "Type 2": "Ghost",
+        "Strength": "236"
+    },
+    "Whismur": {
+        "Name of Pokemon": "Whismur",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "240"
+    },
+    "Loudred": {
+        "Name of Pokemon": "Loudred",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "360"
+    },
+    "Exploud": {
+        "Name of Pokemon": "Exploud",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Makuhita": {
+        "Name of Pokemon": "Makuhita",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "237"
+    },
+    "Hariyama": {
+        "Name of Pokemon": "Hariyama",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "474"
+    },
+    "Azurill": {
+        "Name of Pokemon": "Azurill",
+        "Type 1": "Normal",
+        "Type 2": "Fairy",
+        "Strength": "190"
+    },
+    "Nosepass": {
+        "Name of Pokemon": "Nosepass",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "375"
+    },
+    "Skitty": {
+        "Name of Pokemon": "Skitty",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "260"
+    },
+    "Delcatty": {
+        "Name of Pokemon": "Delcatty",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "380"
+    },
+    "Sableye": {
+        "Name of Pokemon": "Sableye",
+        "Type 1": "Dark",
+        "Type 2": "Ghost",
+        "Strength": "380"
+    },
+    "SableyeMega Sableye": {
+        "Name of Pokemon": "SableyeMega Sableye",
+        "Type 1": "Dark",
+        "Type 2": "Ghost",
+        "Strength": "480"
+    },
+    "Mawile": {
+        "Name of Pokemon": "Mawile",
+        "Type 1": "Steel",
+        "Type 2": "Fairy",
+        "Strength": "380"
+    },
+    "MawileMega Mawile": {
+        "Name of Pokemon": "MawileMega Mawile",
+        "Type 1": "Steel",
+        "Type 2": "Fairy",
+        "Strength": "480"
+    },
+    "Aron": {
+        "Name of Pokemon": "Aron",
+        "Type 1": "Steel",
+        "Type 2": "Rock",
+        "Strength": "330"
+    },
+    "Lairon": {
+        "Name of Pokemon": "Lairon",
+        "Type 1": "Steel",
+        "Type 2": "Rock",
+        "Strength": "430"
+    },
+    "Aggron": {
+        "Name of Pokemon": "Aggron",
+        "Type 1": "Steel",
+        "Type 2": "Rock",
+        "Strength": "530"
+    },
+    "AggronMega Aggron": {
+        "Name of Pokemon": "AggronMega Aggron",
+        "Type 1": "Steel",
+        "Type 2": "",
+        "Strength": "630"
+    },
+    "Meditite": {
+        "Name of Pokemon": "Meditite",
+        "Type 1": "Fighting",
+        "Type 2": "Psychic",
+        "Strength": "280"
+    },
+    "Medicham": {
+        "Name of Pokemon": "Medicham",
+        "Type 1": "Fighting",
+        "Type 2": "Psychic",
+        "Strength": "410"
+    },
+    "MedichamMega Medicham": {
+        "Name of Pokemon": "MedichamMega Medicham",
+        "Type 1": "Fighting",
+        "Type 2": "Psychic",
+        "Strength": "510"
+    },
+    "Electrike": {
+        "Name of Pokemon": "Electrike",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "295"
+    },
+    "Manectric": {
+        "Name of Pokemon": "Manectric",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "475"
+    },
+    "ManectricMega Manectric": {
+        "Name of Pokemon": "ManectricMega Manectric",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "575"
+    },
+    "Plusle": {
+        "Name of Pokemon": "Plusle",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Minun": {
+        "Name of Pokemon": "Minun",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Volbeat": {
+        "Name of Pokemon": "Volbeat",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "400"
+    },
+    "Illumise": {
+        "Name of Pokemon": "Illumise",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "400"
+    },
+    "Roselia": {
+        "Name of Pokemon": "Roselia",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "400"
+    },
+    "Gulpin": {
+        "Name of Pokemon": "Gulpin",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "302"
+    },
+    "Swalot": {
+        "Name of Pokemon": "Swalot",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "467"
+    },
+    "Carvanha": {
+        "Name of Pokemon": "Carvanha",
+        "Type 1": "Water",
+        "Type 2": "Dark",
+        "Strength": "305"
+    },
+    "Sharpedo": {
+        "Name of Pokemon": "Sharpedo",
+        "Type 1": "Water",
+        "Type 2": "Dark",
+        "Strength": "460"
+    },
+    "SharpedoMega Sharpedo": {
+        "Name of Pokemon": "SharpedoMega Sharpedo",
+        "Type 1": "Water",
+        "Type 2": "Dark",
+        "Strength": "560"
+    },
+    "Wailmer": {
+        "Name of Pokemon": "Wailmer",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "400"
+    },
+    "Wailord": {
+        "Name of Pokemon": "Wailord",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Numel": {
+        "Name of Pokemon": "Numel",
+        "Type 1": "Fire",
+        "Type 2": "Ground",
+        "Strength": "305"
+    },
+    "Camerupt": {
+        "Name of Pokemon": "Camerupt",
+        "Type 1": "Fire",
+        "Type 2": "Ground",
+        "Strength": "460"
+    },
+    "CameruptMega Camerupt": {
+        "Name of Pokemon": "CameruptMega Camerupt",
+        "Type 1": "Fire",
+        "Type 2": "Ground",
+        "Strength": "560"
+    },
+    "Torkoal": {
+        "Name of Pokemon": "Torkoal",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "470"
+    },
+    "Spoink": {
+        "Name of Pokemon": "Spoink",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Grumpig": {
+        "Name of Pokemon": "Grumpig",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "470"
+    },
+    "Spinda": {
+        "Name of Pokemon": "Spinda",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "360"
+    },
+    "Trapinch": {
+        "Name of Pokemon": "Trapinch",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "290"
+    },
+    "Vibrava": {
+        "Name of Pokemon": "Vibrava",
+        "Type 1": "Ground",
+        "Type 2": "Dragon",
+        "Strength": "340"
+    },
+    "Flygon": {
+        "Name of Pokemon": "Flygon",
+        "Type 1": "Ground",
+        "Type 2": "Dragon",
+        "Strength": "520"
+    },
+    "Cacnea": {
+        "Name of Pokemon": "Cacnea",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "335"
+    },
+    "Cacturne": {
+        "Name of Pokemon": "Cacturne",
+        "Type 1": "Grass",
+        "Type 2": "Dark",
+        "Strength": "475"
+    },
+    "Swablu": {
+        "Name of Pokemon": "Swablu",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "310"
+    },
+    "Altaria": {
+        "Name of Pokemon": "Altaria",
+        "Type 1": "Dragon",
+        "Type 2": "Flying",
+        "Strength": "490"
+    },
+    "AltariaMega Altaria": {
+        "Name of Pokemon": "AltariaMega Altaria",
+        "Type 1": "Dragon",
+        "Type 2": "Fairy",
+        "Strength": "590"
+    },
+    "Zangoose": {
+        "Name of Pokemon": "Zangoose",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "458"
+    },
+    "Seviper": {
+        "Name of Pokemon": "Seviper",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "458"
+    },
+    "Lunatone": {
+        "Name of Pokemon": "Lunatone",
+        "Type 1": "Rock",
+        "Type 2": "Psychic",
+        "Strength": "440"
+    },
+    "Solrock": {
+        "Name of Pokemon": "Solrock",
+        "Type 1": "Rock",
+        "Type 2": "Psychic",
+        "Strength": "440"
+    },
+    "Barboach": {
+        "Name of Pokemon": "Barboach",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "288"
+    },
+    "Whiscash": {
+        "Name of Pokemon": "Whiscash",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "468"
+    },
+    "Corphish": {
+        "Name of Pokemon": "Corphish",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "308"
+    },
+    "Crawdaunt": {
+        "Name of Pokemon": "Crawdaunt",
+        "Type 1": "Water",
+        "Type 2": "Dark",
+        "Strength": "468"
+    },
+    "Baltoy": {
+        "Name of Pokemon": "Baltoy",
+        "Type 1": "Ground",
+        "Type 2": "Psychic",
+        "Strength": "300"
+    },
+    "Claydol": {
+        "Name of Pokemon": "Claydol",
+        "Type 1": "Ground",
+        "Type 2": "Psychic",
+        "Strength": "500"
+    },
+    "Lileep": {
+        "Name of Pokemon": "Lileep",
+        "Type 1": "Rock",
+        "Type 2": "Grass",
+        "Strength": "355"
+    },
+    "Cradily": {
+        "Name of Pokemon": "Cradily",
+        "Type 1": "Rock",
+        "Type 2": "Grass",
+        "Strength": "495"
+    },
+    "Anorith": {
+        "Name of Pokemon": "Anorith",
+        "Type 1": "Rock",
+        "Type 2": "Bug",
+        "Strength": "355"
+    },
+    "Armaldo": {
+        "Name of Pokemon": "Armaldo",
+        "Type 1": "Rock",
+        "Type 2": "Bug",
+        "Strength": "495"
+    },
+    "Feebas": {
+        "Name of Pokemon": "Feebas",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "200"
+    },
+    "Milotic": {
+        "Name of Pokemon": "Milotic",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "540"
+    },
+    "Castform": {
+        "Name of Pokemon": "Castform",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "420"
+    },
+    "Kecleon": {
+        "Name of Pokemon": "Kecleon",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "440"
+    },
+    "Shuppet": {
+        "Name of Pokemon": "Shuppet",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "295"
+    },
+    "Banette": {
+        "Name of Pokemon": "Banette",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "455"
+    },
+    "BanetteMega Banette": {
+        "Name of Pokemon": "BanetteMega Banette",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "555"
+    },
+    "Duskull": {
+        "Name of Pokemon": "Duskull",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "295"
+    },
+    "Dusclops": {
+        "Name of Pokemon": "Dusclops",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "455"
+    },
+    "Tropius": {
+        "Name of Pokemon": "Tropius",
+        "Type 1": "Grass",
+        "Type 2": "Flying",
+        "Strength": "460"
+    },
+    "Chimecho": {
+        "Name of Pokemon": "Chimecho",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "425"
+    },
+    "Absol": {
+        "Name of Pokemon": "Absol",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "465"
+    },
+    "AbsolMega Absol": {
+        "Name of Pokemon": "AbsolMega Absol",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "565"
+    },
+    "Wynaut": {
+        "Name of Pokemon": "Wynaut",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "260"
+    },
+    "Snorunt": {
+        "Name of Pokemon": "Snorunt",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Glalie": {
+        "Name of Pokemon": "Glalie",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "480"
+    },
+    "GlalieMega Glalie": {
+        "Name of Pokemon": "GlalieMega Glalie",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Spheal": {
+        "Name of Pokemon": "Spheal",
+        "Type 1": "Ice",
+        "Type 2": "Water",
+        "Strength": "290"
+    },
+    "Sealeo": {
+        "Name of Pokemon": "Sealeo",
+        "Type 1": "Ice",
+        "Type 2": "Water",
+        "Strength": "410"
+    },
+    "Walrein": {
+        "Name of Pokemon": "Walrein",
+        "Type 1": "Ice",
+        "Type 2": "Water",
+        "Strength": "530"
+    },
+    "Clamperl": {
+        "Name of Pokemon": "Clamperl",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "345"
+    },
+    "Huntail": {
+        "Name of Pokemon": "Huntail",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "485"
+    },
+    "Gorebyss": {
+        "Name of Pokemon": "Gorebyss",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "485"
+    },
+    "Relicanth": {
+        "Name of Pokemon": "Relicanth",
+        "Type 1": "Water",
+        "Type 2": "Rock",
+        "Strength": "485"
+    },
+    "Luvdisc": {
+        "Name of Pokemon": "Luvdisc",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Bagon": {
+        "Name of Pokemon": "Bagon",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Shelgon": {
+        "Name of Pokemon": "Shelgon",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "420"
+    },
+    "Salamence": {
+        "Name of Pokemon": "Salamence",
+        "Type 1": "Dragon",
+        "Type 2": "Flying",
+        "Strength": "600"
+    },
+    "SalamenceMega Salamence": {
+        "Name of Pokemon": "SalamenceMega Salamence",
+        "Type 1": "Dragon",
+        "Type 2": "Flying",
+        "Strength": "700"
+    },
+    "Beldum": {
+        "Name of Pokemon": "Beldum",
+        "Type 1": "Steel",
+        "Type 2": "Psychic",
+        "Strength": "300"
+    },
+    "Metang": {
+        "Name of Pokemon": "Metang",
+        "Type 1": "Steel",
+        "Type 2": "Psychic",
+        "Strength": "420"
+    },
+    "Metagross": {
+        "Name of Pokemon": "Metagross",
+        "Type 1": "Steel",
+        "Type 2": "Psychic",
+        "Strength": "600"
+    },
+    "MetagrossMega Metagross": {
+        "Name of Pokemon": "MetagrossMega Metagross",
+        "Type 1": "Steel",
+        "Type 2": "Psychic",
+        "Strength": "700"
+    },
+    "Regirock": {
+        "Name of Pokemon": "Regirock",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Regice": {
+        "Name of Pokemon": "Regice",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Registeel": {
+        "Name of Pokemon": "Registeel",
+        "Type 1": "Steel",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Latias": {
+        "Name of Pokemon": "Latias",
+        "Type 1": "Dragon",
+        "Type 2": "Psychic",
+        "Strength": "600"
+    },
+    "LatiasMega Latias": {
+        "Name of Pokemon": "LatiasMega Latias",
+        "Type 1": "Dragon",
+        "Type 2": "Psychic",
+        "Strength": "700"
+    },
+    "Latios": {
+        "Name of Pokemon": "Latios",
+        "Type 1": "Dragon",
+        "Type 2": "Psychic",
+        "Strength": "600"
+    },
+    "LatiosMega Latios": {
+        "Name of Pokemon": "LatiosMega Latios",
+        "Type 1": "Dragon",
+        "Type 2": "Psychic",
+        "Strength": "700"
+    },
+    "Kyogre": {
+        "Name of Pokemon": "Kyogre",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "670"
+    },
+    "KyogrePrimal Kyogre": {
+        "Name of Pokemon": "KyogrePrimal Kyogre",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "770"
+    },
+    "Groudon": {
+        "Name of Pokemon": "Groudon",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "670"
+    },
+    "GroudonPrimal Groudon": {
+        "Name of Pokemon": "GroudonPrimal Groudon",
+        "Type 1": "Ground",
+        "Type 2": "Fire",
+        "Strength": "770"
+    },
+    "Rayquaza": {
+        "Name of Pokemon": "Rayquaza",
+        "Type 1": "Dragon",
+        "Type 2": "Flying",
+        "Strength": "680"
+    },
+    "RayquazaMega Rayquaza": {
+        "Name of Pokemon": "RayquazaMega Rayquaza",
+        "Type 1": "Dragon",
+        "Type 2": "Flying",
+        "Strength": "780"
+    },
+    "Jirachi": {
+        "Name of Pokemon": "Jirachi",
+        "Type 1": "Steel",
+        "Type 2": "Psychic",
+        "Strength": "600"
+    },
+    "DeoxysNormal Forme": {
+        "Name of Pokemon": "DeoxysNormal Forme",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "DeoxysAttack Forme": {
+        "Name of Pokemon": "DeoxysAttack Forme",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "DeoxysDefense Forme": {
+        "Name of Pokemon": "DeoxysDefense Forme",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "DeoxysSpeed Forme": {
+        "Name of Pokemon": "DeoxysSpeed Forme",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "Turtwig": {
+        "Name of Pokemon": "Turtwig",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "318"
+    },
+    "Grotle": {
+        "Name of Pokemon": "Grotle",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Torterra": {
+        "Name of Pokemon": "Torterra",
+        "Type 1": "Grass",
+        "Type 2": "Ground",
+        "Strength": "525"
+    },
+    "Chimchar": {
+        "Name of Pokemon": "Chimchar",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "309"
+    },
+    "Monferno": {
+        "Name of Pokemon": "Monferno",
+        "Type 1": "Fire",
+        "Type 2": "Fighting",
+        "Strength": "405"
+    },
+    "Infernape": {
+        "Name of Pokemon": "Infernape",
+        "Type 1": "Fire",
+        "Type 2": "Fighting",
+        "Strength": "534"
+    },
+    "Piplup": {
+        "Name of Pokemon": "Piplup",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "314"
+    },
+    "Prinplup": {
+        "Name of Pokemon": "Prinplup",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Empoleon": {
+        "Name of Pokemon": "Empoleon",
+        "Type 1": "Water",
+        "Type 2": "Steel",
+        "Strength": "530"
+    },
+    "Starly": {
+        "Name of Pokemon": "Starly",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "245"
+    },
+    "Staravia": {
+        "Name of Pokemon": "Staravia",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "340"
+    },
+    "Staraptor": {
+        "Name of Pokemon": "Staraptor",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "485"
+    },
+    "Bidoof": {
+        "Name of Pokemon": "Bidoof",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "250"
+    },
+    "Bibarel": {
+        "Name of Pokemon": "Bibarel",
+        "Type 1": "Normal",
+        "Type 2": "Water",
+        "Strength": "410"
+    },
+    "Kricketot": {
+        "Name of Pokemon": "Kricketot",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "194"
+    },
+    "Kricketune": {
+        "Name of Pokemon": "Kricketune",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "384"
+    },
+    "Shinx": {
+        "Name of Pokemon": "Shinx",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "263"
+    },
+    "Luxio": {
+        "Name of Pokemon": "Luxio",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "363"
+    },
+    "Luxray": {
+        "Name of Pokemon": "Luxray",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "523"
+    },
+    "Budew": {
+        "Name of Pokemon": "Budew",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "280"
+    },
+    "Roserade": {
+        "Name of Pokemon": "Roserade",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "515"
+    },
+    "Cranidos": {
+        "Name of Pokemon": "Cranidos",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "350"
+    },
+    "Rampardos": {
+        "Name of Pokemon": "Rampardos",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "495"
+    },
+    "Shieldon": {
+        "Name of Pokemon": "Shieldon",
+        "Type 1": "Rock",
+        "Type 2": "Steel",
+        "Strength": "350"
+    },
+    "Bastiodon": {
+        "Name of Pokemon": "Bastiodon",
+        "Type 1": "Rock",
+        "Type 2": "Steel",
+        "Strength": "495"
+    },
+    "Burmy": {
+        "Name of Pokemon": "Burmy",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "224"
+    },
+    "WormadamPlant Cloak": {
+        "Name of Pokemon": "WormadamPlant Cloak",
+        "Type 1": "Bug",
+        "Type 2": "Grass",
+        "Strength": "424"
+    },
+    "WormadamSandy Cloak": {
+        "Name of Pokemon": "WormadamSandy Cloak",
+        "Type 1": "Bug",
+        "Type 2": "Ground",
+        "Strength": "424"
+    },
+    "WormadamTrash Cloak": {
+        "Name of Pokemon": "WormadamTrash Cloak",
+        "Type 1": "Bug",
+        "Type 2": "Steel",
+        "Strength": "424"
+    },
+    "Mothim": {
+        "Name of Pokemon": "Mothim",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "424"
+    },
+    "Combee": {
+        "Name of Pokemon": "Combee",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "244"
+    },
+    "Vespiquen": {
+        "Name of Pokemon": "Vespiquen",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "474"
+    },
+    "Pachirisu": {
+        "Name of Pokemon": "Pachirisu",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Buizel": {
+        "Name of Pokemon": "Buizel",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Floatzel": {
+        "Name of Pokemon": "Floatzel",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "495"
+    },
+    "Cherubi": {
+        "Name of Pokemon": "Cherubi",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "275"
+    },
+    "Cherrim": {
+        "Name of Pokemon": "Cherrim",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "450"
+    },
+    "Shellos": {
+        "Name of Pokemon": "Shellos",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "325"
+    },
+    "Gastrodon": {
+        "Name of Pokemon": "Gastrodon",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "475"
+    },
+    "Ambipom": {
+        "Name of Pokemon": "Ambipom",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "482"
+    },
+    "Drifloon": {
+        "Name of Pokemon": "Drifloon",
+        "Type 1": "Ghost",
+        "Type 2": "Flying",
+        "Strength": "348"
+    },
+    "Drifblim": {
+        "Name of Pokemon": "Drifblim",
+        "Type 1": "Ghost",
+        "Type 2": "Flying",
+        "Strength": "498"
+    },
+    "Buneary": {
+        "Name of Pokemon": "Buneary",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "350"
+    },
+    "Lopunny": {
+        "Name of Pokemon": "Lopunny",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "480"
+    },
+    "LopunnyMega Lopunny": {
+        "Name of Pokemon": "LopunnyMega Lopunny",
+        "Type 1": "Normal",
+        "Type 2": "Fighting",
+        "Strength": "580"
+    },
+    "Mismagius": {
+        "Name of Pokemon": "Mismagius",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "495"
+    },
+    "Honchkrow": {
+        "Name of Pokemon": "Honchkrow",
+        "Type 1": "Dark",
+        "Type 2": "Flying",
+        "Strength": "505"
+    },
+    "Glameow": {
+        "Name of Pokemon": "Glameow",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "310"
+    },
+    "Purugly": {
+        "Name of Pokemon": "Purugly",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "452"
+    },
+    "Chingling": {
+        "Name of Pokemon": "Chingling",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "285"
+    },
+    "Stunky": {
+        "Name of Pokemon": "Stunky",
+        "Type 1": "Poison",
+        "Type 2": "Dark",
+        "Strength": "329"
+    },
+    "Skuntank": {
+        "Name of Pokemon": "Skuntank",
+        "Type 1": "Poison",
+        "Type 2": "Dark",
+        "Strength": "479"
+    },
+    "Bronzor": {
+        "Name of Pokemon": "Bronzor",
+        "Type 1": "Steel",
+        "Type 2": "Psychic",
+        "Strength": "300"
+    },
+    "Bronzong": {
+        "Name of Pokemon": "Bronzong",
+        "Type 1": "Steel",
+        "Type 2": "Psychic",
+        "Strength": "500"
+    },
+    "Bonsly": {
+        "Name of Pokemon": "Bonsly",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "290"
+    },
+    "Mime Jr.": {
+        "Name of Pokemon": "Mime Jr.",
+        "Type 1": "Psychic",
+        "Type 2": "Fairy",
+        "Strength": "310"
+    },
+    "Happiny": {
+        "Name of Pokemon": "Happiny",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "220"
+    },
+    "Chatot": {
+        "Name of Pokemon": "Chatot",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "411"
+    },
+    "Spiritomb": {
+        "Name of Pokemon": "Spiritomb",
+        "Type 1": "Ghost",
+        "Type 2": "Dark",
+        "Strength": "485"
+    },
+    "Gible": {
+        "Name of Pokemon": "Gible",
+        "Type 1": "Dragon",
+        "Type 2": "Ground",
+        "Strength": "300"
+    },
+    "Gabite": {
+        "Name of Pokemon": "Gabite",
+        "Type 1": "Dragon",
+        "Type 2": "Ground",
+        "Strength": "410"
+    },
+    "Garchomp": {
+        "Name of Pokemon": "Garchomp",
+        "Type 1": "Dragon",
+        "Type 2": "Ground",
+        "Strength": "600"
+    },
+    "GarchompMega Garchomp": {
+        "Name of Pokemon": "GarchompMega Garchomp",
+        "Type 1": "Dragon",
+        "Type 2": "Ground",
+        "Strength": "700"
+    },
+    "Munchlax": {
+        "Name of Pokemon": "Munchlax",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "390"
+    },
+    "Riolu": {
+        "Name of Pokemon": "Riolu",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "285"
+    },
+    "Lucario": {
+        "Name of Pokemon": "Lucario",
+        "Type 1": "Fighting",
+        "Type 2": "Steel",
+        "Strength": "525"
+    },
+    "LucarioMega Lucario": {
+        "Name of Pokemon": "LucarioMega Lucario",
+        "Type 1": "Fighting",
+        "Type 2": "Steel",
+        "Strength": "625"
+    },
+    "Hippopotas": {
+        "Name of Pokemon": "Hippopotas",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Hippowdon": {
+        "Name of Pokemon": "Hippowdon",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Skorupi": {
+        "Name of Pokemon": "Skorupi",
+        "Type 1": "Poison",
+        "Type 2": "Bug",
+        "Strength": "330"
+    },
+    "Drapion": {
+        "Name of Pokemon": "Drapion",
+        "Type 1": "Poison",
+        "Type 2": "Dark",
+        "Strength": "500"
+    },
+    "Croagunk": {
+        "Name of Pokemon": "Croagunk",
+        "Type 1": "Poison",
+        "Type 2": "Fighting",
+        "Strength": "300"
+    },
+    "Toxicroak": {
+        "Name of Pokemon": "Toxicroak",
+        "Type 1": "Poison",
+        "Type 2": "Fighting",
+        "Strength": "490"
+    },
+    "Carnivine": {
+        "Name of Pokemon": "Carnivine",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "454"
+    },
+    "Finneon": {
+        "Name of Pokemon": "Finneon",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Lumineon": {
+        "Name of Pokemon": "Lumineon",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "460"
+    },
+    "Mantyke": {
+        "Name of Pokemon": "Mantyke",
+        "Type 1": "Water",
+        "Type 2": "Flying",
+        "Strength": "345"
+    },
+    "Snover": {
+        "Name of Pokemon": "Snover",
+        "Type 1": "Grass",
+        "Type 2": "Ice",
+        "Strength": "334"
+    },
+    "Abomasnow": {
+        "Name of Pokemon": "Abomasnow",
+        "Type 1": "Grass",
+        "Type 2": "Ice",
+        "Strength": "494"
+    },
+    "AbomasnowMega Abomasnow": {
+        "Name of Pokemon": "AbomasnowMega Abomasnow",
+        "Type 1": "Grass",
+        "Type 2": "Ice",
+        "Strength": "594"
+    },
+    "Weavile": {
+        "Name of Pokemon": "Weavile",
+        "Type 1": "Dark",
+        "Type 2": "Ice",
+        "Strength": "510"
+    },
+    "Magnezone": {
+        "Name of Pokemon": "Magnezone",
+        "Type 1": "Electric",
+        "Type 2": "Steel",
+        "Strength": "535"
+    },
+    "Lickilicky": {
+        "Name of Pokemon": "Lickilicky",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "515"
+    },
+    "Rhyperior": {
+        "Name of Pokemon": "Rhyperior",
+        "Type 1": "Ground",
+        "Type 2": "Rock",
+        "Strength": "535"
+    },
+    "Tangrowth": {
+        "Name of Pokemon": "Tangrowth",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "535"
+    },
+    "Electivire": {
+        "Name of Pokemon": "Electivire",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "540"
+    },
+    "Magmortar": {
+        "Name of Pokemon": "Magmortar",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "540"
+    },
+    "Togekiss": {
+        "Name of Pokemon": "Togekiss",
+        "Type 1": "Fairy",
+        "Type 2": "Flying",
+        "Strength": "545"
+    },
+    "Yanmega": {
+        "Name of Pokemon": "Yanmega",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "515"
+    },
+    "Leafeon": {
+        "Name of Pokemon": "Leafeon",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Glaceon": {
+        "Name of Pokemon": "Glaceon",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Gliscor": {
+        "Name of Pokemon": "Gliscor",
+        "Type 1": "Ground",
+        "Type 2": "Flying",
+        "Strength": "510"
+    },
+    "Mamoswine": {
+        "Name of Pokemon": "Mamoswine",
+        "Type 1": "Ice",
+        "Type 2": "Ground",
+        "Strength": "530"
+    },
+    "Porygon-Z": {
+        "Name of Pokemon": "Porygon-Z",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "535"
+    },
+    "Gallade": {
+        "Name of Pokemon": "Gallade",
+        "Type 1": "Psychic",
+        "Type 2": "Fighting",
+        "Strength": "518"
+    },
+    "GalladeMega Gallade": {
+        "Name of Pokemon": "GalladeMega Gallade",
+        "Type 1": "Psychic",
+        "Type 2": "Fighting",
+        "Strength": "618"
+    },
+    "Probopass": {
+        "Name of Pokemon": "Probopass",
+        "Type 1": "Rock",
+        "Type 2": "Steel",
+        "Strength": "525"
+    },
+    "Dusknoir": {
+        "Name of Pokemon": "Dusknoir",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Froslass": {
+        "Name of Pokemon": "Froslass",
+        "Type 1": "Ice",
+        "Type 2": "Ghost",
+        "Strength": "480"
+    },
+    "Rotom": {
+        "Name of Pokemon": "Rotom",
+        "Type 1": "Electric",
+        "Type 2": "Ghost",
+        "Strength": "440"
+    },
+    "RotomHeat Rotom": {
+        "Name of Pokemon": "RotomHeat Rotom",
+        "Type 1": "Electric",
+        "Type 2": "Fire",
+        "Strength": "520"
+    },
+    "RotomWash Rotom": {
+        "Name of Pokemon": "RotomWash Rotom",
+        "Type 1": "Electric",
+        "Type 2": "Water",
+        "Strength": "520"
+    },
+    "RotomFrost Rotom": {
+        "Name of Pokemon": "RotomFrost Rotom",
+        "Type 1": "Electric",
+        "Type 2": "Ice",
+        "Strength": "520"
+    },
+    "RotomFan Rotom": {
+        "Name of Pokemon": "RotomFan Rotom",
+        "Type 1": "Electric",
+        "Type 2": "Flying",
+        "Strength": "520"
+    },
+    "RotomMow Rotom": {
+        "Name of Pokemon": "RotomMow Rotom",
+        "Type 1": "Electric",
+        "Type 2": "Grass",
+        "Strength": "520"
+    },
+    "Uxie": {
+        "Name of Pokemon": "Uxie",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Mesprit": {
+        "Name of Pokemon": "Mesprit",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Azelf": {
+        "Name of Pokemon": "Azelf",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "Dialga": {
+        "Name of Pokemon": "Dialga",
+        "Type 1": "Steel",
+        "Type 2": "Dragon",
+        "Strength": "680"
+    },
+    "Palkia": {
+        "Name of Pokemon": "Palkia",
+        "Type 1": "Water",
+        "Type 2": "Dragon",
+        "Strength": "680"
+    },
+    "Heatran": {
+        "Name of Pokemon": "Heatran",
+        "Type 1": "Fire",
+        "Type 2": "Steel",
+        "Strength": "600"
+    },
+    "Regigigas": {
+        "Name of Pokemon": "Regigigas",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "670"
+    },
+    "GiratinaAltered Forme": {
+        "Name of Pokemon": "GiratinaAltered Forme",
+        "Type 1": "Ghost",
+        "Type 2": "Dragon",
+        "Strength": "680"
+    },
+    "GiratinaOrigin Forme": {
+        "Name of Pokemon": "GiratinaOrigin Forme",
+        "Type 1": "Ghost",
+        "Type 2": "Dragon",
+        "Strength": "680"
+    },
+    "Cresselia": {
+        "Name of Pokemon": "Cresselia",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "Phione": {
+        "Name of Pokemon": "Phione",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "480"
+    },
+    "Manaphy": {
+        "Name of Pokemon": "Manaphy",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "Darkrai": {
+        "Name of Pokemon": "Darkrai",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "ShayminLand Forme": {
+        "Name of Pokemon": "ShayminLand Forme",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "ShayminSky Forme": {
+        "Name of Pokemon": "ShayminSky Forme",
+        "Type 1": "Grass",
+        "Type 2": "Flying",
+        "Strength": "600"
+    },
+    "Arceus": {
+        "Name of Pokemon": "Arceus",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "720"
+    },
+    "Victini": {
+        "Name of Pokemon": "Victini",
+        "Type 1": "Psychic",
+        "Type 2": "Fire",
+        "Strength": "600"
+    },
+    "Snivy": {
+        "Name of Pokemon": "Snivy",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "308"
+    },
+    "Servine": {
+        "Name of Pokemon": "Servine",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "413"
+    },
+    "Serperior": {
+        "Name of Pokemon": "Serperior",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "528"
+    },
+    "Tepig": {
+        "Name of Pokemon": "Tepig",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "308"
+    },
+    "Pignite": {
+        "Name of Pokemon": "Pignite",
+        "Type 1": "Fire",
+        "Type 2": "Fighting",
+        "Strength": "418"
+    },
+    "Emboar": {
+        "Name of Pokemon": "Emboar",
+        "Type 1": "Fire",
+        "Type 2": "Fighting",
+        "Strength": "528"
+    },
+    "Oshawott": {
+        "Name of Pokemon": "Oshawott",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "308"
+    },
+    "Dewott": {
+        "Name of Pokemon": "Dewott",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "413"
+    },
+    "Samurott": {
+        "Name of Pokemon": "Samurott",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "528"
+    },
+    "Patrat": {
+        "Name of Pokemon": "Patrat",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "255"
+    },
+    "Watchog": {
+        "Name of Pokemon": "Watchog",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "420"
+    },
+    "Lillipup": {
+        "Name of Pokemon": "Lillipup",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "275"
+    },
+    "Herdier": {
+        "Name of Pokemon": "Herdier",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "370"
+    },
+    "Stoutland": {
+        "Name of Pokemon": "Stoutland",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Purrloin": {
+        "Name of Pokemon": "Purrloin",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "281"
+    },
+    "Liepard": {
+        "Name of Pokemon": "Liepard",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "446"
+    },
+    "Pansage": {
+        "Name of Pokemon": "Pansage",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "316"
+    },
+    "Simisage": {
+        "Name of Pokemon": "Simisage",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "498"
+    },
+    "Pansear": {
+        "Name of Pokemon": "Pansear",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "316"
+    },
+    "Simisear": {
+        "Name of Pokemon": "Simisear",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "498"
+    },
+    "Panpour": {
+        "Name of Pokemon": "Panpour",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "316"
+    },
+    "Simipour": {
+        "Name of Pokemon": "Simipour",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "498"
+    },
+    "Munna": {
+        "Name of Pokemon": "Munna",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "292"
+    },
+    "Musharna": {
+        "Name of Pokemon": "Musharna",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "487"
+    },
+    "Pidove": {
+        "Name of Pokemon": "Pidove",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "264"
+    },
+    "Tranquill": {
+        "Name of Pokemon": "Tranquill",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "358"
+    },
+    "Unfezant": {
+        "Name of Pokemon": "Unfezant",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "488"
+    },
+    "Blitzle": {
+        "Name of Pokemon": "Blitzle",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "295"
+    },
+    "Zebstrika": {
+        "Name of Pokemon": "Zebstrika",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "497"
+    },
+    "Roggenrola": {
+        "Name of Pokemon": "Roggenrola",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "280"
+    },
+    "Boldore": {
+        "Name of Pokemon": "Boldore",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "390"
+    },
+    "Gigalith": {
+        "Name of Pokemon": "Gigalith",
+        "Type 1": "Rock",
+        "Type 2": "",
+        "Strength": "515"
+    },
+    "Woobat": {
+        "Name of Pokemon": "Woobat",
+        "Type 1": "Psychic",
+        "Type 2": "Flying",
+        "Strength": "313"
+    },
+    "Swoobat": {
+        "Name of Pokemon": "Swoobat",
+        "Type 1": "Psychic",
+        "Type 2": "Flying",
+        "Strength": "425"
+    },
+    "Drilbur": {
+        "Name of Pokemon": "Drilbur",
+        "Type 1": "Ground",
+        "Type 2": "",
+        "Strength": "328"
+    },
+    "Excadrill": {
+        "Name of Pokemon": "Excadrill",
+        "Type 1": "Ground",
+        "Type 2": "Steel",
+        "Strength": "508"
+    },
+    "Audino": {
+        "Name of Pokemon": "Audino",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "445"
+    },
+    "AudinoMega Audino": {
+        "Name of Pokemon": "AudinoMega Audino",
+        "Type 1": "Normal",
+        "Type 2": "Fairy",
+        "Strength": "545"
+    },
+    "Timburr": {
+        "Name of Pokemon": "Timburr",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "305"
+    },
+    "Gurdurr": {
+        "Name of Pokemon": "Gurdurr",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Conkeldurr": {
+        "Name of Pokemon": "Conkeldurr",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "505"
+    },
+    "Tympole": {
+        "Name of Pokemon": "Tympole",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "294"
+    },
+    "Palpitoad": {
+        "Name of Pokemon": "Palpitoad",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "384"
+    },
+    "Seismitoad": {
+        "Name of Pokemon": "Seismitoad",
+        "Type 1": "Water",
+        "Type 2": "Ground",
+        "Strength": "509"
+    },
+    "Throh": {
+        "Name of Pokemon": "Throh",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "465"
+    },
+    "Sawk": {
+        "Name of Pokemon": "Sawk",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "465"
+    },
+    "Sewaddle": {
+        "Name of Pokemon": "Sewaddle",
+        "Type 1": "Bug",
+        "Type 2": "Grass",
+        "Strength": "310"
+    },
+    "Swadloon": {
+        "Name of Pokemon": "Swadloon",
+        "Type 1": "Bug",
+        "Type 2": "Grass",
+        "Strength": "380"
+    },
+    "Leavanny": {
+        "Name of Pokemon": "Leavanny",
+        "Type 1": "Bug",
+        "Type 2": "Grass",
+        "Strength": "500"
+    },
+    "Venipede": {
+        "Name of Pokemon": "Venipede",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "260"
+    },
+    "Whirlipede": {
+        "Name of Pokemon": "Whirlipede",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "360"
+    },
+    "Scolipede": {
+        "Name of Pokemon": "Scolipede",
+        "Type 1": "Bug",
+        "Type 2": "Poison",
+        "Strength": "485"
+    },
+    "Cottonee": {
+        "Name of Pokemon": "Cottonee",
+        "Type 1": "Grass",
+        "Type 2": "Fairy",
+        "Strength": "280"
+    },
+    "Whimsicott": {
+        "Name of Pokemon": "Whimsicott",
+        "Type 1": "Grass",
+        "Type 2": "Fairy",
+        "Strength": "480"
+    },
+    "Petilil": {
+        "Name of Pokemon": "Petilil",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "280"
+    },
+    "Lilligant": {
+        "Name of Pokemon": "Lilligant",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "480"
+    },
+    "Basculin": {
+        "Name of Pokemon": "Basculin",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "460"
+    },
+    "Sandile": {
+        "Name of Pokemon": "Sandile",
+        "Type 1": "Ground",
+        "Type 2": "Dark",
+        "Strength": "292"
+    },
+    "Krokorok": {
+        "Name of Pokemon": "Krokorok",
+        "Type 1": "Ground",
+        "Type 2": "Dark",
+        "Strength": "351"
+    },
+    "Krookodile": {
+        "Name of Pokemon": "Krookodile",
+        "Type 1": "Ground",
+        "Type 2": "Dark",
+        "Strength": "519"
+    },
+    "Darumaka": {
+        "Name of Pokemon": "Darumaka",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "315"
+    },
+    "DarmanitanStandard Mode": {
+        "Name of Pokemon": "DarmanitanStandard Mode",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "480"
+    },
+    "DarmanitanZen Mode": {
+        "Name of Pokemon": "DarmanitanZen Mode",
+        "Type 1": "Fire",
+        "Type 2": "Psychic",
+        "Strength": "540"
+    },
+    "Maractus": {
+        "Name of Pokemon": "Maractus",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "461"
+    },
+    "Dwebble": {
+        "Name of Pokemon": "Dwebble",
+        "Type 1": "Bug",
+        "Type 2": "Rock",
+        "Strength": "325"
+    },
+    "Crustle": {
+        "Name of Pokemon": "Crustle",
+        "Type 1": "Bug",
+        "Type 2": "Rock",
+        "Strength": "475"
+    },
+    "Scraggy": {
+        "Name of Pokemon": "Scraggy",
+        "Type 1": "Dark",
+        "Type 2": "Fighting",
+        "Strength": "348"
+    },
+    "Scrafty": {
+        "Name of Pokemon": "Scrafty",
+        "Type 1": "Dark",
+        "Type 2": "Fighting",
+        "Strength": "488"
+    },
+    "Sigilyph": {
+        "Name of Pokemon": "Sigilyph",
+        "Type 1": "Psychic",
+        "Type 2": "Flying",
+        "Strength": "490"
+    },
+    "Yamask": {
+        "Name of Pokemon": "Yamask",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "303"
+    },
+    "Cofagrigus": {
+        "Name of Pokemon": "Cofagrigus",
+        "Type 1": "Ghost",
+        "Type 2": "",
+        "Strength": "483"
+    },
+    "Tirtouga": {
+        "Name of Pokemon": "Tirtouga",
+        "Type 1": "Water",
+        "Type 2": "Rock",
+        "Strength": "355"
+    },
+    "Carracosta": {
+        "Name of Pokemon": "Carracosta",
+        "Type 1": "Water",
+        "Type 2": "Rock",
+        "Strength": "495"
+    },
+    "Archen": {
+        "Name of Pokemon": "Archen",
+        "Type 1": "Rock",
+        "Type 2": "Flying",
+        "Strength": "401"
+    },
+    "Archeops": {
+        "Name of Pokemon": "Archeops",
+        "Type 1": "Rock",
+        "Type 2": "Flying",
+        "Strength": "567"
+    },
+    "Trubbish": {
+        "Name of Pokemon": "Trubbish",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "329"
+    },
+    "Garbodor": {
+        "Name of Pokemon": "Garbodor",
+        "Type 1": "Poison",
+        "Type 2": "",
+        "Strength": "474"
+    },
+    "Zorua": {
+        "Name of Pokemon": "Zorua",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Zoroark": {
+        "Name of Pokemon": "Zoroark",
+        "Type 1": "Dark",
+        "Type 2": "",
+        "Strength": "510"
+    },
+    "Minccino": {
+        "Name of Pokemon": "Minccino",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Cinccino": {
+        "Name of Pokemon": "Cinccino",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "470"
+    },
+    "Gothita": {
+        "Name of Pokemon": "Gothita",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "290"
+    },
+    "Gothorita": {
+        "Name of Pokemon": "Gothorita",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "390"
+    },
+    "Gothitelle": {
+        "Name of Pokemon": "Gothitelle",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Solosis": {
+        "Name of Pokemon": "Solosis",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "290"
+    },
+    "Duosion": {
+        "Name of Pokemon": "Duosion",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "370"
+    },
+    "Reuniclus": {
+        "Name of Pokemon": "Reuniclus",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Ducklett": {
+        "Name of Pokemon": "Ducklett",
+        "Type 1": "Water",
+        "Type 2": "Flying",
+        "Strength": "305"
+    },
+    "Swanna": {
+        "Name of Pokemon": "Swanna",
+        "Type 1": "Water",
+        "Type 2": "Flying",
+        "Strength": "473"
+    },
+    "Vanillite": {
+        "Name of Pokemon": "Vanillite",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "305"
+    },
+    "Vanillish": {
+        "Name of Pokemon": "Vanillish",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "395"
+    },
+    "Vanilluxe": {
+        "Name of Pokemon": "Vanilluxe",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "535"
+    },
+    "Deerling": {
+        "Name of Pokemon": "Deerling",
+        "Type 1": "Normal",
+        "Type 2": "Grass",
+        "Strength": "335"
+    },
+    "Sawsbuck": {
+        "Name of Pokemon": "Sawsbuck",
+        "Type 1": "Normal",
+        "Type 2": "Grass",
+        "Strength": "475"
+    },
+    "Emolga": {
+        "Name of Pokemon": "Emolga",
+        "Type 1": "Electric",
+        "Type 2": "Flying",
+        "Strength": "428"
+    },
+    "Karrablast": {
+        "Name of Pokemon": "Karrablast",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "315"
+    },
+    "Escavalier": {
+        "Name of Pokemon": "Escavalier",
+        "Type 1": "Bug",
+        "Type 2": "Steel",
+        "Strength": "495"
+    },
+    "Foongus": {
+        "Name of Pokemon": "Foongus",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "294"
+    },
+    "Amoonguss": {
+        "Name of Pokemon": "Amoonguss",
+        "Type 1": "Grass",
+        "Type 2": "Poison",
+        "Strength": "464"
+    },
+    "Frillish": {
+        "Name of Pokemon": "Frillish",
+        "Type 1": "Water",
+        "Type 2": "Ghost",
+        "Strength": "335"
+    },
+    "Jellicent": {
+        "Name of Pokemon": "Jellicent",
+        "Type 1": "Water",
+        "Type 2": "Ghost",
+        "Strength": "480"
+    },
+    "Alomomola": {
+        "Name of Pokemon": "Alomomola",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "470"
+    },
+    "Joltik": {
+        "Name of Pokemon": "Joltik",
+        "Type 1": "Bug",
+        "Type 2": "Electric",
+        "Strength": "319"
+    },
+    "Galvantula": {
+        "Name of Pokemon": "Galvantula",
+        "Type 1": "Bug",
+        "Type 2": "Electric",
+        "Strength": "472"
+    },
+    "Ferroseed": {
+        "Name of Pokemon": "Ferroseed",
+        "Type 1": "Grass",
+        "Type 2": "Steel",
+        "Strength": "305"
+    },
+    "Ferrothorn": {
+        "Name of Pokemon": "Ferrothorn",
+        "Type 1": "Grass",
+        "Type 2": "Steel",
+        "Strength": "489"
+    },
+    "Klink": {
+        "Name of Pokemon": "Klink",
+        "Type 1": "Steel",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Klang": {
+        "Name of Pokemon": "Klang",
+        "Type 1": "Steel",
+        "Type 2": "",
+        "Strength": "440"
+    },
+    "Klinklang": {
+        "Name of Pokemon": "Klinklang",
+        "Type 1": "Steel",
+        "Type 2": "",
+        "Strength": "520"
+    },
+    "Tynamo": {
+        "Name of Pokemon": "Tynamo",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "275"
+    },
+    "Eelektrik": {
+        "Name of Pokemon": "Eelektrik",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Eelektross": {
+        "Name of Pokemon": "Eelektross",
+        "Type 1": "Electric",
+        "Type 2": "",
+        "Strength": "515"
+    },
+    "Elgyem": {
+        "Name of Pokemon": "Elgyem",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "335"
+    },
+    "Beheeyem": {
+        "Name of Pokemon": "Beheeyem",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "485"
+    },
+    "Litwick": {
+        "Name of Pokemon": "Litwick",
+        "Type 1": "Ghost",
+        "Type 2": "Fire",
+        "Strength": "275"
+    },
+    "Lampent": {
+        "Name of Pokemon": "Lampent",
+        "Type 1": "Ghost",
+        "Type 2": "Fire",
+        "Strength": "370"
+    },
+    "Chandelure": {
+        "Name of Pokemon": "Chandelure",
+        "Type 1": "Ghost",
+        "Type 2": "Fire",
+        "Strength": "520"
+    },
+    "Axew": {
+        "Name of Pokemon": "Axew",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "320"
+    },
+    "Fraxure": {
+        "Name of Pokemon": "Fraxure",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "410"
+    },
+    "Haxorus": {
+        "Name of Pokemon": "Haxorus",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "540"
+    },
+    "Cubchoo": {
+        "Name of Pokemon": "Cubchoo",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "305"
+    },
+    "Beartic": {
+        "Name of Pokemon": "Beartic",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "485"
+    },
+    "Cryogonal": {
+        "Name of Pokemon": "Cryogonal",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "485"
+    },
+    "Shelmet": {
+        "Name of Pokemon": "Shelmet",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "305"
+    },
+    "Accelgor": {
+        "Name of Pokemon": "Accelgor",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "495"
+    },
+    "Stunfisk": {
+        "Name of Pokemon": "Stunfisk",
+        "Type 1": "Ground",
+        "Type 2": "Electric",
+        "Strength": "471"
+    },
+    "Mienfoo": {
+        "Name of Pokemon": "Mienfoo",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "350"
+    },
+    "Mienshao": {
+        "Name of Pokemon": "Mienshao",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "510"
+    },
+    "Druddigon": {
+        "Name of Pokemon": "Druddigon",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "485"
+    },
+    "Golett": {
+        "Name of Pokemon": "Golett",
+        "Type 1": "Ground",
+        "Type 2": "Ghost",
+        "Strength": "303"
+    },
+    "Golurk": {
+        "Name of Pokemon": "Golurk",
+        "Type 1": "Ground",
+        "Type 2": "Ghost",
+        "Strength": "483"
+    },
+    "Pawniard": {
+        "Name of Pokemon": "Pawniard",
+        "Type 1": "Dark",
+        "Type 2": "Steel",
+        "Strength": "340"
+    },
+    "Bisharp": {
+        "Name of Pokemon": "Bisharp",
+        "Type 1": "Dark",
+        "Type 2": "Steel",
+        "Strength": "490"
+    },
+    "Bouffalant": {
+        "Name of Pokemon": "Bouffalant",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "490"
+    },
+    "Rufflet": {
+        "Name of Pokemon": "Rufflet",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "350"
+    },
+    "Braviary": {
+        "Name of Pokemon": "Braviary",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "510"
+    },
+    "Vullaby": {
+        "Name of Pokemon": "Vullaby",
+        "Type 1": "Dark",
+        "Type 2": "Flying",
+        "Strength": "370"
+    },
+    "Mandibuzz": {
+        "Name of Pokemon": "Mandibuzz",
+        "Type 1": "Dark",
+        "Type 2": "Flying",
+        "Strength": "510"
+    },
+    "Heatmor": {
+        "Name of Pokemon": "Heatmor",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "484"
+    },
+    "Durant": {
+        "Name of Pokemon": "Durant",
+        "Type 1": "Bug",
+        "Type 2": "Steel",
+        "Strength": "484"
+    },
+    "Deino": {
+        "Name of Pokemon": "Deino",
+        "Type 1": "Dark",
+        "Type 2": "Dragon",
+        "Strength": "300"
+    },
+    "Zweilous": {
+        "Name of Pokemon": "Zweilous",
+        "Type 1": "Dark",
+        "Type 2": "Dragon",
+        "Strength": "420"
+    },
+    "Hydreigon": {
+        "Name of Pokemon": "Hydreigon",
+        "Type 1": "Dark",
+        "Type 2": "Dragon",
+        "Strength": "600"
+    },
+    "Larvesta": {
+        "Name of Pokemon": "Larvesta",
+        "Type 1": "Bug",
+        "Type 2": "Fire",
+        "Strength": "360"
+    },
+    "Volcarona": {
+        "Name of Pokemon": "Volcarona",
+        "Type 1": "Bug",
+        "Type 2": "Fire",
+        "Strength": "550"
+    },
+    "Cobalion": {
+        "Name of Pokemon": "Cobalion",
+        "Type 1": "Steel",
+        "Type 2": "Fighting",
+        "Strength": "580"
+    },
+    "Terrakion": {
+        "Name of Pokemon": "Terrakion",
+        "Type 1": "Rock",
+        "Type 2": "Fighting",
+        "Strength": "580"
+    },
+    "Virizion": {
+        "Name of Pokemon": "Virizion",
+        "Type 1": "Grass",
+        "Type 2": "Fighting",
+        "Strength": "580"
+    },
+    "TornadusIncarnate Forme": {
+        "Name of Pokemon": "TornadusIncarnate Forme",
+        "Type 1": "Flying",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "TornadusTherian Forme": {
+        "Name of Pokemon": "TornadusTherian Forme",
+        "Type 1": "Flying",
+        "Type 2": "",
+        "Strength": "580"
+    },
+    "ThundurusIncarnate Forme": {
+        "Name of Pokemon": "ThundurusIncarnate Forme",
+        "Type 1": "Electric",
+        "Type 2": "Flying",
+        "Strength": "580"
+    },
+    "ThundurusTherian Forme": {
+        "Name of Pokemon": "ThundurusTherian Forme",
+        "Type 1": "Electric",
+        "Type 2": "Flying",
+        "Strength": "580"
+    },
+    "Reshiram": {
+        "Name of Pokemon": "Reshiram",
+        "Type 1": "Dragon",
+        "Type 2": "Fire",
+        "Strength": "680"
+    },
+    "Zekrom": {
+        "Name of Pokemon": "Zekrom",
+        "Type 1": "Dragon",
+        "Type 2": "Electric",
+        "Strength": "680"
+    },
+    "LandorusIncarnate Forme": {
+        "Name of Pokemon": "LandorusIncarnate Forme",
+        "Type 1": "Ground",
+        "Type 2": "Flying",
+        "Strength": "600"
+    },
+    "LandorusTherian Forme": {
+        "Name of Pokemon": "LandorusTherian Forme",
+        "Type 1": "Ground",
+        "Type 2": "Flying",
+        "Strength": "600"
+    },
+    "Kyurem": {
+        "Name of Pokemon": "Kyurem",
+        "Type 1": "Dragon",
+        "Type 2": "Ice",
+        "Strength": "660"
+    },
+    "KyuremBlack Kyurem": {
+        "Name of Pokemon": "KyuremBlack Kyurem",
+        "Type 1": "Dragon",
+        "Type 2": "Ice",
+        "Strength": "700"
+    },
+    "KyuremWhite Kyurem": {
+        "Name of Pokemon": "KyuremWhite Kyurem",
+        "Type 1": "Dragon",
+        "Type 2": "Ice",
+        "Strength": "700"
+    },
+    "KeldeoOrdinary Forme": {
+        "Name of Pokemon": "KeldeoOrdinary Forme",
+        "Type 1": "Water",
+        "Type 2": "Fighting",
+        "Strength": "580"
+    },
+    "KeldeoResolute Forme": {
+        "Name of Pokemon": "KeldeoResolute Forme",
+        "Type 1": "Water",
+        "Type 2": "Fighting",
+        "Strength": "580"
+    },
+    "MeloettaAria Forme": {
+        "Name of Pokemon": "MeloettaAria Forme",
+        "Type 1": "Normal",
+        "Type 2": "Psychic",
+        "Strength": "600"
+    },
+    "MeloettaPirouette Forme": {
+        "Name of Pokemon": "MeloettaPirouette Forme",
+        "Type 1": "Normal",
+        "Type 2": "Fighting",
+        "Strength": "600"
+    },
+    "Genesect": {
+        "Name of Pokemon": "Genesect",
+        "Type 1": "Bug",
+        "Type 2": "Steel",
+        "Strength": "600"
+    },
+    "Chespin": {
+        "Name of Pokemon": "Chespin",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "313"
+    },
+    "Quilladin": {
+        "Name of Pokemon": "Quilladin",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Chesnaught": {
+        "Name of Pokemon": "Chesnaught",
+        "Type 1": "Grass",
+        "Type 2": "Fighting",
+        "Strength": "530"
+    },
+    "Fennekin": {
+        "Name of Pokemon": "Fennekin",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "307"
+    },
+    "Braixen": {
+        "Name of Pokemon": "Braixen",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "Strength": "409"
+    },
+    "Delphox": {
+        "Name of Pokemon": "Delphox",
+        "Type 1": "Fire",
+        "Type 2": "Psychic",
+        "Strength": "534"
+    },
+    "Froakie": {
+        "Name of Pokemon": "Froakie",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "314"
+    },
+    "Frogadier": {
+        "Name of Pokemon": "Frogadier",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "405"
+    },
+    "Greninja": {
+        "Name of Pokemon": "Greninja",
+        "Type 1": "Water",
+        "Type 2": "Dark",
+        "Strength": "530"
+    },
+    "Bunnelby": {
+        "Name of Pokemon": "Bunnelby",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "237"
+    },
+    "Diggersby": {
+        "Name of Pokemon": "Diggersby",
+        "Type 1": "Normal",
+        "Type 2": "Ground",
+        "Strength": "423"
+    },
+    "Fletchling": {
+        "Name of Pokemon": "Fletchling",
+        "Type 1": "Normal",
+        "Type 2": "Flying",
+        "Strength": "278"
+    },
+    "Fletchinder": {
+        "Name of Pokemon": "Fletchinder",
+        "Type 1": "Fire",
+        "Type 2": "Flying",
+        "Strength": "382"
+    },
+    "Talonflame": {
+        "Name of Pokemon": "Talonflame",
+        "Type 1": "Fire",
+        "Type 2": "Flying",
+        "Strength": "499"
+    },
+    "Scatterbug": {
+        "Name of Pokemon": "Scatterbug",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "200"
+    },
+    "Spewpa": {
+        "Name of Pokemon": "Spewpa",
+        "Type 1": "Bug",
+        "Type 2": "",
+        "Strength": "213"
+    },
+    "Vivillon": {
+        "Name of Pokemon": "Vivillon",
+        "Type 1": "Bug",
+        "Type 2": "Flying",
+        "Strength": "411"
+    },
+    "Litleo": {
+        "Name of Pokemon": "Litleo",
+        "Type 1": "Fire",
+        "Type 2": "Normal",
+        "Strength": "369"
+    },
+    "Pyroar": {
+        "Name of Pokemon": "Pyroar",
+        "Type 1": "Fire",
+        "Type 2": "Normal",
+        "Strength": "507"
+    },
+    "Flab\u00c3\u00a9b\u00c3\u00a9": {
+        "Name of Pokemon": "Flab\u00c3\u00a9b\u00c3\u00a9",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "303"
+    },
+    "Floette": {
+        "Name of Pokemon": "Floette",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "371"
+    },
+    "Florges": {
+        "Name of Pokemon": "Florges",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "552"
+    },
+    "Skiddo": {
+        "Name of Pokemon": "Skiddo",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "350"
+    },
+    "Gogoat": {
+        "Name of Pokemon": "Gogoat",
+        "Type 1": "Grass",
+        "Type 2": "",
+        "Strength": "531"
+    },
+    "Pancham": {
+        "Name of Pokemon": "Pancham",
+        "Type 1": "Fighting",
+        "Type 2": "",
+        "Strength": "348"
+    },
+    "Pangoro": {
+        "Name of Pokemon": "Pangoro",
+        "Type 1": "Fighting",
+        "Type 2": "Dark",
+        "Strength": "495"
+    },
+    "Furfrou": {
+        "Name of Pokemon": "Furfrou",
+        "Type 1": "Normal",
+        "Type 2": "",
+        "Strength": "472"
+    },
+    "Espurr": {
+        "Name of Pokemon": "Espurr",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "355"
+    },
+    "MeowsticMale": {
+        "Name of Pokemon": "MeowsticMale",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "466"
+    },
+    "MeowsticFemale": {
+        "Name of Pokemon": "MeowsticFemale",
+        "Type 1": "Psychic",
+        "Type 2": "",
+        "Strength": "466"
+    },
+    "Honedge": {
+        "Name of Pokemon": "Honedge",
+        "Type 1": "Steel",
+        "Type 2": "Ghost",
+        "Strength": "325"
+    },
+    "Doublade": {
+        "Name of Pokemon": "Doublade",
+        "Type 1": "Steel",
+        "Type 2": "Ghost",
+        "Strength": "448"
+    },
+    "AegislashBlade Forme": {
+        "Name of Pokemon": "AegislashBlade Forme",
+        "Type 1": "Steel",
+        "Type 2": "Ghost",
+        "Strength": "520"
+    },
+    "AegislashShield Forme": {
+        "Name of Pokemon": "AegislashShield Forme",
+        "Type 1": "Steel",
+        "Type 2": "Ghost",
+        "Strength": "520"
+    },
+    "Spritzee": {
+        "Name of Pokemon": "Spritzee",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "341"
+    },
+    "Aromatisse": {
+        "Name of Pokemon": "Aromatisse",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "462"
+    },
+    "Swirlix": {
+        "Name of Pokemon": "Swirlix",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "341"
+    },
+    "Slurpuff": {
+        "Name of Pokemon": "Slurpuff",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "480"
+    },
+    "Inkay": {
+        "Name of Pokemon": "Inkay",
+        "Type 1": "Dark",
+        "Type 2": "Psychic",
+        "Strength": "288"
+    },
+    "Malamar": {
+        "Name of Pokemon": "Malamar",
+        "Type 1": "Dark",
+        "Type 2": "Psychic",
+        "Strength": "482"
+    },
+    "Binacle": {
+        "Name of Pokemon": "Binacle",
+        "Type 1": "Rock",
+        "Type 2": "Water",
+        "Strength": "306"
+    },
+    "Barbaracle": {
+        "Name of Pokemon": "Barbaracle",
+        "Type 1": "Rock",
+        "Type 2": "Water",
+        "Strength": "500"
+    },
+    "Skrelp": {
+        "Name of Pokemon": "Skrelp",
+        "Type 1": "Poison",
+        "Type 2": "Water",
+        "Strength": "320"
+    },
+    "Dragalge": {
+        "Name of Pokemon": "Dragalge",
+        "Type 1": "Poison",
+        "Type 2": "Dragon",
+        "Strength": "494"
+    },
+    "Clauncher": {
+        "Name of Pokemon": "Clauncher",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "330"
+    },
+    "Clawitzer": {
+        "Name of Pokemon": "Clawitzer",
+        "Type 1": "Water",
+        "Type 2": "",
+        "Strength": "500"
+    },
+    "Helioptile": {
+        "Name of Pokemon": "Helioptile",
+        "Type 1": "Electric",
+        "Type 2": "Normal",
+        "Strength": "289"
+    },
+    "Heliolisk": {
+        "Name of Pokemon": "Heliolisk",
+        "Type 1": "Electric",
+        "Type 2": "Normal",
+        "Strength": "481"
+    },
+    "Tyrunt": {
+        "Name of Pokemon": "Tyrunt",
+        "Type 1": "Rock",
+        "Type 2": "Dragon",
+        "Strength": "362"
+    },
+    "Tyrantrum": {
+        "Name of Pokemon": "Tyrantrum",
+        "Type 1": "Rock",
+        "Type 2": "Dragon",
+        "Strength": "521"
+    },
+    "Amaura": {
+        "Name of Pokemon": "Amaura",
+        "Type 1": "Rock",
+        "Type 2": "Ice",
+        "Strength": "362"
+    },
+    "Aurorus": {
+        "Name of Pokemon": "Aurorus",
+        "Type 1": "Rock",
+        "Type 2": "Ice",
+        "Strength": "521"
+    },
+    "Sylveon": {
+        "Name of Pokemon": "Sylveon",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "525"
+    },
+    "Hawlucha": {
+        "Name of Pokemon": "Hawlucha",
+        "Type 1": "Fighting",
+        "Type 2": "Flying",
+        "Strength": "500"
+    },
+    "Dedenne": {
+        "Name of Pokemon": "Dedenne",
+        "Type 1": "Electric",
+        "Type 2": "Fairy",
+        "Strength": "431"
+    },
+    "Carbink": {
+        "Name of Pokemon": "Carbink",
+        "Type 1": "Rock",
+        "Type 2": "Fairy",
+        "Strength": "500"
+    },
+    "Goomy": {
+        "Name of Pokemon": "Goomy",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "300"
+    },
+    "Sliggoo": {
+        "Name of Pokemon": "Sliggoo",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "452"
+    },
+    "Goodra": {
+        "Name of Pokemon": "Goodra",
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "Strength": "600"
+    },
+    "Klefki": {
+        "Name of Pokemon": "Klefki",
+        "Type 1": "Steel",
+        "Type 2": "Fairy",
+        "Strength": "470"
+    },
+    "Phantump": {
+        "Name of Pokemon": "Phantump",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "309"
+    },
+    "Trevenant": {
+        "Name of Pokemon": "Trevenant",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "474"
+    },
+    "PumpkabooAverage Size": {
+        "Name of Pokemon": "PumpkabooAverage Size",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "335"
+    },
+    "PumpkabooSmall Size": {
+        "Name of Pokemon": "PumpkabooSmall Size",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "335"
+    },
+    "PumpkabooLarge Size": {
+        "Name of Pokemon": "PumpkabooLarge Size",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "335"
+    },
+    "PumpkabooSuper Size": {
+        "Name of Pokemon": "PumpkabooSuper Size",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "335"
+    },
+    "GourgeistAverage Size": {
+        "Name of Pokemon": "GourgeistAverage Size",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "494"
+    },
+    "GourgeistSmall Size": {
+        "Name of Pokemon": "GourgeistSmall Size",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "494"
+    },
+    "GourgeistLarge Size": {
+        "Name of Pokemon": "GourgeistLarge Size",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "494"
+    },
+    "GourgeistSuper Size": {
+        "Name of Pokemon": "GourgeistSuper Size",
+        "Type 1": "Ghost",
+        "Type 2": "Grass",
+        "Strength": "494"
+    },
+    "Bergmite": {
+        "Name of Pokemon": "Bergmite",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "304"
+    },
+    "Avalugg": {
+        "Name of Pokemon": "Avalugg",
+        "Type 1": "Ice",
+        "Type 2": "",
+        "Strength": "514"
+    },
+    "Noibat": {
+        "Name of Pokemon": "Noibat",
+        "Type 1": "Flying",
+        "Type 2": "Dragon",
+        "Strength": "245"
+    },
+    "Noivern": {
+        "Name of Pokemon": "Noivern",
+        "Type 1": "Flying",
+        "Type 2": "Dragon",
+        "Strength": "535"
+    },
+    "Xerneas": {
+        "Name of Pokemon": "Xerneas",
+        "Type 1": "Fairy",
+        "Type 2": "",
+        "Strength": "680"
+    },
+    "Yveltal": {
+        "Name of Pokemon": "Yveltal",
+        "Type 1": "Dark",
+        "Type 2": "Flying",
+        "Strength": "680"
+    },
+    "Zygarde50% Forme": {
+        "Name of Pokemon": "Zygarde50% Forme",
+        "Type 1": "Dragon",
+        "Type 2": "Ground",
+        "Strength": "600"
+    },
+    "Diancie": {
+        "Name of Pokemon": "Diancie",
+        "Type 1": "Rock",
+        "Type 2": "Fairy",
+        "Strength": "600"
+    },
+    "DiancieMega Diancie": {
+        "Name of Pokemon": "DiancieMega Diancie",
+        "Type 1": "Rock",
+        "Type 2": "Fairy",
+        "Strength": "700"
+    },
+    "HoopaHoopa Confined": {
+        "Name of Pokemon": "HoopaHoopa Confined",
+        "Type 1": "Psychic",
+        "Type 2": "Ghost",
+        "Strength": "600"
+    },
+    "HoopaHoopa Unbound": {
+        "Name of Pokemon": "HoopaHoopa Unbound",
+        "Type 1": "Psychic",
+        "Type 2": "Dark",
+        "Strength": "680"
+    },
+    "Volcanion": {
+        "Name of Pokemon": "Volcanion",
+        "Type 1": "Fire",
+        "Type 2": "Water",
+        "Strength": "600"
+    }
+}
