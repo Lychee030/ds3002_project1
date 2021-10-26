@@ -5,8 +5,6 @@ import os
 import json
 import re
 
-from requests.models import Request
-
 """
 The dataset named "Pokemon with stats" is useful for Pokemon lovers and Pokemon games players.
 It contains detailed information including name, type, HP, speed of 721 Pokemon.
