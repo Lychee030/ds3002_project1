@@ -4,6 +4,7 @@ import requests
 import os
 import json
 import re
+import xml
 
 """
 The dataset named "Pokemon with stats" is useful for Pokemon lovers and Pokemon games players.
@@ -17,14 +18,20 @@ Where: Kaggle
 URL:https://www.kaggle.com/abcsds/pokemon
 """
 
+'''
 # Benchmark 1 (No.1): Retrieve a remote data file by URL
 ## Get URL from Kaggles
 url='https://storage.googleapis.com/kagglesdsdata/datasets/121/280/Pokemon.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20211026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211026T195458Z&X-Goog-Expires=259199&X-Goog-SignedHeaders=host&X-Goog-Signature=8e0e61b48d8276d0d4c5794acfbd64793f0c21e89457f700932d288534cb6849c508d4681ec8308f4e6a8c0d95d50f4c9b9b369c704064c59d5910b3d76ffe705270944af5aa2fb798c453b0545ca77c5df5f631606725184663f149cd1959457fa3831dc13dd463c3413e60bf15418b3c28561fc216c1a2399d82008f46dee8ac3617203b11b78c5b29856e86c3b0d7558e8f1ec831c9c1e679f21bf9a1f44049ff311712171756861bf1c0ac1392d6b628a5a9387c616bec162da97e9396f8d8bc0529c55530c8e5d9c65c01dd8f4d768720b90cbed0a5d5e93679e165fb00717f787e48ae7210f1c19abc6f7e2636ad2a9f08655c5ed8c2a20215df8818bd'
 try:
     response = requests.get(url)
-except os.error as e:
+    pokemon = pd.read_csv(url,index_col = 0)
+except requests.exceptions.HTTPError as e:
     print('The api is expired. We may swtich to grab the path from the local folder')
-    url='Pokemon.csv'
+    url='./Pokemon.csv'
+'''
+
+# Benchmark 1 (No.1): Retrieve a remote data file by local file
+url='Pokemon.csv'
 ## Use pandas package to read a csv file
 pokemon = pd.read_csv(url,index_col = 0)
 print(pokemon)
