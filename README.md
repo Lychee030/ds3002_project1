@@ -8,7 +8,7 @@ This repository is created for DS 3002 Project 1 only.
 - Pokemon.csv is downloaded directly from Kaggle. 
 
 ## How it works:
-Open a new terminal, run python project1.py<br />
+Open a new terminal, run `python project1.py`<br />
 - (1) The first output you will see is the non-modified table [800 rows x 12 columns] <br />
 - (2) Then a brief summary () of the non-modified table is shown <br />
 &nbsp; &nbsp; This summary includes:<br />
@@ -25,3 +25,12 @@ Open a new terminal, run python project1.py<br />
 &nbsp; &nbsp; Address.txt contains a list of email addresses. <br />
 &nbsp; &nbsp; emptyAddress.txt is an empty file. <br />
 &nbsp; &nbsp; wrongAddress.txt has some random texts in it. <br />
+
+## Requirements:
+This ETL data processor completes serveral tasks :tada:. <br />
+- [x] Successfully open files, iterate files, pattern match, and output files
+- [x] Ingest a local file
+- [x] Convert a file from TSV to CSV, CSV to JSON, CSV to TSV
+- [X] Modify the number of columns and the name of a column
+- [X] Generate a brief summary of the data including number of records and number of columns
+- [X] Produce informative errors that it unable to process (extra function)
