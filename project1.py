@@ -111,5 +111,3 @@ except EOFError as e: ## If the input is not a string
     print("Oops, you did not input a valid directory")
 except FileNotFoundError as e2:
     print('The system cannot find the file')
-
-
