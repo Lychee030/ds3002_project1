@@ -10,7 +10,6 @@ import requests
 import os
 import json
 import re
-import xml
 
 """
 The dataset named "Pokemon with stats" is useful for Pokemon lovers and Pokemon games players.
