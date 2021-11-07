@@ -1,3 +1,9 @@
+"""
+DS3002 Project1 
+By Emily Feng (ejf9kwf)
+
+This repository is created for DS 3002 Project 1 only.
+"""
 import pandas as pd
 import csv
 import requests
