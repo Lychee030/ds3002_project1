@@ -38,7 +38,7 @@ except requests.exceptions.HTTPError as e:
     url='./Pokemon.csv'
 '''
 
-# Benchmark 1 (No.1): Retrieve a local file
+# Benchmark 1: Retrieve a local file
 location='Pokemon.csv'
 ## Use pandas package to read a csv file
 try:
@@ -49,7 +49,7 @@ except FileNotFoundError as e:
     exit(1)
 
 
-# Benchmark 2 (No.5): Generate a brief summary of the data file
+# Benchmark 5: Generate a brief summary of the data file
 ## number of records for each pokemon using iteration
 num_records= 0
 for col in pokemon:
@@ -61,7 +61,7 @@ print("Number of rows: ", len(pokemon))
 ## is caused by mega evolution of a pokemon.
 ## e.g. Vanusaur and VanusaurMaga are the same pokemon, but have different data.
 
-# Benchmark 3 (No.3): Modify the number of columns from the source to the dest
+# Benchmark 3: Modify the number of columns from the source to the dest
 ## Now, I am going to create a table that only contains information below:
 ## Name: pokemon's name
 ## Type 1: type/category of a pokemon
@@ -79,7 +79,7 @@ modifiedPokemon.rename(columns={'Name':'Name of Pokemon','Type 1':'Type 1','Type
 modifiedPokemon.dropna(axis=0, subset=['Strength'])
 print(modifiedPokemon)
 
-# Benchmark 4 (No.2): Convert the general format and data structure of the data source
+# Benchmark 2: Convert the general format and data structure of the data source
 ## Convert the modified pokemon file from CSV to TSV
 modifiedPokemon.to_csv('./TSVpokemon.tsv', index = False, sep='\t')
 ## Convert the newly-created tsv file to csv file
