@@ -99,6 +99,19 @@ with open(srcFile) as csvf:
 with open(jsonFile,'w') as jsonf:
     jsonf.write(json.dumps(data,indent=4))
 
+#Pattern Match
+## Find all pokemons whose name end with character z
+pattern='.*z$'
+endZ=[]
+with open('./Pokemon.csv','r') as findf:
+    reader=csv.reader(findf)
+    for rows in reader:
+        key = rows[1]
+        key=re.escape(key)
+        if re.match(pattern,key):
+            endZ.append(key)
+print("\nPokemons whose name end with 'z': ", endZ, "\n")
+
 # Extra Function
 # Purpose: Pattern Match and Error Message
 # Description: This function takes a text file path as an input,

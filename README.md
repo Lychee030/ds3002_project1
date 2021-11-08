@@ -21,7 +21,8 @@ Open a new terminal, run `python project1.py`<br />
 &nbsp; &nbsp; Type 2: another type/category of a pokemon<br />
 &nbsp; &nbsp; Strength (Total): sum of all stats of a pokemon, which determines strength<br />
 4. Later, the modified csv table will be converted to tsv file --> csv file --> json file. TSVpokemon.tsv, CSVpokemon.csv, and JSONpokemon.json will be created to this directory accordingly.<br />
-5. Finally, there is an extra function that takes in a textfile as an input, and check if each file contains only a list of emails. The purpose of this function is to demonstrate my understanding of displaying error messages and applying pattern match for each line in a csv file. You can try 3 examples txt file in testEmail package. <br />
+5. Then, the program prints out a list of pokemons whose name end with character 'z'
+6. Finally, there is an extra function that takes in a textfile as an input, and check if each file contains only a list of emails. The purpose of this function is to demonstrate my understanding of displaying error messages and applying pattern match for each line in a csv file. You can try 3 examples txt file in testEmail package. <br />
 &nbsp; &nbsp; Address.txt contains a list of email addresses. <br />
 &nbsp; &nbsp; emptyAddress.txt is an empty file. <br />
 &nbsp; &nbsp; wrongAddress.txt has some random texts in it. <br />
