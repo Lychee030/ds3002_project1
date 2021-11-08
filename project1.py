@@ -13,7 +13,7 @@ import re
 
 """
 The dataset named "Pokemon with stats" is useful for Pokemon lovers and Pokemon games players.
-It contains detailed information including name, type, HP, speed of 721 Pokemon.
+It contains detailed information including name, type, HP, speed of each Pokemon.
 The data table is expressed in a csv file. All data are acquired from official websites such as pokemon.com
 
 Information of this dataset
