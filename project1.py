@@ -135,11 +135,14 @@ try:
                 line=txtf.readline()
                 if not re.match(emailPattern,line):
                     print('Your text file contains something other than email address: ', line)
+                    exit(1)
         except os.error as e:
             print(e)
+            exit(1)
         finally:
-            print('Your input text file has been checked')
             txtf.close()
+        print('Your input text file has been checked')
+            
 except EOFError as e: ## If the input is not a string
     print("Oops, you did not input a valid directory")
 except FileNotFoundError as e2:
